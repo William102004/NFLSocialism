@@ -1,0 +1,38 @@
+team,team_abbr,valid_from,valid_to,dma_name,dma_rank,teams_in_market,census_metro_name,metro_pop_2020,metro_pop_2025,pop_per_team_2025,notes
+Arizona Cardinals,ARZ,2003,2025,Phoenix (Prescott),12,1,"Phoenix-Mesa-Chandler, AZ",4875256,5228938,5228938,Stadium in Glendale
+Atlanta Falcons,ATL,2003,2025,Atlanta,7,1,"Atlanta-Sandy Springs-Roswell, GA",6120770,6482182,6482182,
+Baltimore Ravens,BAL,2003,2025,Baltimore,29,1,"Baltimore-Columbia-Towson, MD",2847138,2857781,2857781,
+Buffalo Bills,BUF,2003,2025,Buffalo,55,1,"Buffalo-Cheektowaga, NY",1164609,1155653,1155653,Stadium in Orchard Park
+Carolina Panthers,CAR,2003,2025,Charlotte,21,1,"Charlotte-Concord-Gastonia, NC-SC",2668342,2938830,2938830,
+Chicago Bears,CHI,2003,2025,Chicago,3,1,"Chicago-Naperville-Elgin, IL-IN",9435971,9434123,9434123,
+Cincinnati Bengals,CIN,2003,2025,Cincinnati,37,1,"Cincinnati, OH-KY-IN",2251978,2312858,2312858,
+Cleveland Browns,CLV,2003,2025,Cleveland–Akron (Canton),19,1,"Cleveland, OH",2184166,2165775,2165775,
+Dallas Cowboys,DAL,2003,2025,Dallas–Fort Worth,4,1,"Dallas-Fort Worth-Arlington, TX",7667416,8477157,8477157,Stadium in Arlington
+Denver Broncos,DEN,2003,2025,Denver,17,1,"Denver-Aurora-Centennial, CO",2970099,3092037,3092037,
+Detroit Lions,DET,2003,2025,Detroit,14,1,"Detroit-Warren-Dearborn, MI",4385353,4390913,4390913,
+Green Bay Packers,GB,2003,2025,Green Bay–Appleton,68,1,"Green Bay, WI",328581,336756,336756,Smallest NFL market
+Houston Texans,HST,2003,2025,Houston,6,1,"Houston-Pasadena-The Woodlands, TX",7169284,7904627,7904627,
+Indianapolis Colts,IND,2003,2025,Indianapolis,26,1,"Indianapolis-Carmel-Greenwood, IN",2092783,2205695,2205695,
+Jacksonville Jaguars,JAX,2003,2025,Jacksonville,41,1,"Jacksonville, FL",1613022,1785500,1785500,
+Kansas City Chiefs,KC,2003,2025,Kansas City,32,1,"Kansas City, MO-KS",2195241,2270682,2270682,
+Oakland Raiders,OAK,2003,2019,San Francisco–Oakland–San Jose,9,2,"San Francisco-Oakland-Fremont, CA",4745853,4630041,2315020,Shared Bay Area market with 49ers; moved to Las Vegas in 2020
+Las Vegas Raiders,LV,2020,2025,Las Vegas,40,1,"Las Vegas-Henderson-North Las Vegas, NV",2275833,2407226,2407226,Relocated from Oakland
+San Diego Chargers,SD,2003,2016,San Diego,30,1,"San Diego-Chula Vista-Carlsbad, CA",3298648,3282248,3282248,Moved to Los Angeles in 2017; Population: 2020 = April 2020 census; 2025 = Census July 2025 estimate via citypopulation.de
+Los Angeles Chargers,LAC,2017,2025,Los Angeles,2,2,"Los Angeles-Long Beach-Anaheim, CA",13182677,12844441,6422220,Shares LA market with Rams; stadium in Inglewood
+St. Louis Rams,STL,2003,2015,St. Louis,24,1,"St. Louis, MO-IL",2819811,2814421,2814421,Moved to Los Angeles in 2016
+Los Angeles Rams,LAR,2016,2016,Los Angeles,2,1,"Los Angeles-Long Beach-Anaheim, CA",13182677,12844441,12844441,Only LA team in 2016
+Los Angeles Rams,LAR,2017,2025,Los Angeles,2,2,"Los Angeles-Long Beach-Anaheim, CA",13182677,12844441,6422220,Shares LA market with Chargers; stadium in Inglewood
+Miami Dolphins,MIA,2003,2025,Miami–Fort Lauderdale,18,1,"Miami-Fort Lauderdale-West Palm Beach, FL",6133159,6391072,6391072,Stadium in Miami Gardens
+Minnesota Vikings,MIN,2003,2025,Minneapolis–St. Paul,16,1,"Minneapolis-St. Paul-Bloomington, MN-WI",3694131,3790295,3790295,
+New England Patriots,NE,2003,2025,Boston (Manchester),10,1,"Boston-Cambridge-Newton, MA-NH",4921409,5034221,5034221,Stadium in Foxborough
+New Orleans Saints,NO,2003,2025,New Orleans,50,1,"New Orleans-Metairie, LA",1005404,970849,970849,
+New York Giants,NYG,2003,2025,New York,1,2,"New York-Newark-Jersey City, NY-NJ",19999993,20112448,10056224,Shares NY market with Jets; stadium in East Rutherford NJ
+New York Jets,NYJ,2003,2025,New York,1,2,"New York-Newark-Jersey City, NY-NJ",19999993,20112448,10056224,Shares NY market with Giants; stadium in East Rutherford NJ
+Philadelphia Eagles,PHI,2003,2025,Philadelphia,5,1,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6242164,6329118,6329118,
+Pittsburgh Steelers,PIT,2003,2025,Pittsburgh,27,1,"Pittsburgh, PA",2455193,2421992,2421992,
+San Francisco 49ers,SF,2003,2019,San Francisco–Oakland–San Jose,9,2,"San Francisco-Oakland-Fremont, CA",4745853,4630041,2315020,Shared Bay Area market with Oakland Raiders; stadium in Santa Clara from 2014
+San Francisco 49ers,SF,2020,2025,San Francisco–Oakland–San Jose,9,1,"San Francisco-Oakland-Fremont, CA",4745853,4630041,4630041,Only Bay Area team after Raiders left; stadium in Santa Clara
+Seattle Seahawks,SEA,2003,2025,Seattle–Tacoma,13,1,"Seattle-Tacoma-Bellevue, WA",4027814,4161883,4161883,
+Tampa Bay Buccaneers,TB,2003,2025,Tampa–St. Petersburg (Sarasota),11,1,"Tampa-St. Petersburg-Clearwater, FL",3175285,3418895,3418895,Population: 2020 = April 2020 census; 2025 = Census July 2025 estimate via FRED (TMAPOP)
+Tennessee Titans,TEN,2003,2025,Nashville,25,1,"Nashville-Davidson--Murfreesboro--Franklin, TN",2021837,2197416,2197416,
+Washington Commanders,WAS,2003,2025,"Washington, D.C. (Hagerstown)",8,1,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6260638,6465724,6465724,"Named Redskins through 2019, Football Team 2020–2021; stadium in Landover MD"

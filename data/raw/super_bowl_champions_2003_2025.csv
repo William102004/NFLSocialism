@@ -1,0 +1,24 @@
+season,super_bowl,champion,champion_abbr,champion_conf,champion_record,runner_up,runner_up_abbr,runner_up_conf,runner_up_record,champion_score,runner_up_score
+2003,Super Bowl XXXVIII,New England Patriots,NE,AFC,14-2,Carolina Panthers,CAR,NFC,11-5,32,29
+2004,Super Bowl XXXIX,New England Patriots,NE,AFC,14-2,Philadelphia Eagles,PHI,NFC,13-3,24,21
+2005,Super Bowl XL,Pittsburgh Steelers,PIT,AFC,11-5,Seattle Seahawks,SEA,NFC,13-3,21,10
+2006,Super Bowl XLI,Indianapolis Colts,IND,AFC,12-4,Chicago Bears,CHI,NFC,13-3,29,17
+2007,Super Bowl XLII,New York Giants,NYG,NFC,10-6,New England Patriots,NE,AFC,16-0,17,14
+2008,Super Bowl XLIII,Pittsburgh Steelers,PIT,AFC,12-4,Arizona Cardinals,ARI,NFC,9-7,27,23
+2009,Super Bowl XLIV,New Orleans Saints,NO,NFC,13-3,Indianapolis Colts,IND,AFC,14-2,31,17
+2010,Super Bowl XLV,Green Bay Packers,GB,NFC,10-6,Pittsburgh Steelers,PIT,AFC,12-4,31,25
+2011,Super Bowl XLVI,New York Giants,NYG,NFC,9-7,New England Patriots,NE,AFC,13-3,21,17
+2012,Super Bowl XLVII,Baltimore Ravens,BAL,AFC,10-6,San Francisco 49ers,SF,NFC,11-4-1,34,31
+2013,Super Bowl XLVIII,Seattle Seahawks,SEA,NFC,13-3,Denver Broncos,DEN,AFC,13-3,43,8
+2014,Super Bowl XLIX,New England Patriots,NE,AFC,12-4,Seattle Seahawks,SEA,NFC,12-4,28,24
+2015,Super Bowl 50,Denver Broncos,DEN,AFC,12-4,Carolina Panthers,CAR,NFC,15-1,24,10
+2016,Super Bowl LI,New England Patriots,NE,AFC,14-2,Atlanta Falcons,ATL,NFC,11-5,34,28
+2017,Super Bowl LII,Philadelphia Eagles,PHI,NFC,13-3,New England Patriots,NE,AFC,13-3,41,33
+2018,Super Bowl LIII,New England Patriots,NE,AFC,11-5,Los Angeles Rams,LAR,NFC,13-3,13,3
+2019,Super Bowl LIV,Kansas City Chiefs,KC,AFC,12-4,San Francisco 49ers,SF,NFC,13-3,31,20
+2020,Super Bowl LV,Tampa Bay Buccaneers,TB,NFC,11-5,Kansas City Chiefs,KC,AFC,14-2,31,9
+2021,Super Bowl LVI,Los Angeles Rams,LAR,NFC,12-5,Cincinnati Bengals,CIN,AFC,10-7,23,20
+2022,Super Bowl LVII,Kansas City Chiefs,KC,AFC,14-3,Philadelphia Eagles,PHI,NFC,14-3,38,35
+2023,Super Bowl LVIII,Kansas City Chiefs,KC,AFC,11-6,San Francisco 49ers,SF,NFC,12-5,25,22
+2024,Super Bowl LIX,Philadelphia Eagles,PHI,NFC,14-3,Kansas City Chiefs,KC,AFC,15-2,40,22
+2025,Super Bowl LX,Seattle Seahawks,SEA,NFC,14-3,New England Patriots,NE,AFC,14-3,29,13

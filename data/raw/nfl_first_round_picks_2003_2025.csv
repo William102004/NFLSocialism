@@ -1,0 +1,734 @@
+season,pick,team,pfr_team_code,player,position,category,side,college,age_at_draft,games,seasons_as_starter,career_weighted_av,av_with_drafting_team,pro_bowls,all_pro,hof,drafting_team_prior_win_pct,pfr_player_id
+2003,1,Cincinnati Bengals,CIN,Carson Palmer,QB,QB,O,USC,23.0,182.0,12,107.0,60.0,3,0,False,,PalmCa00
+2003,2,Detroit Lions,DET,Charles Rogers,WR,WR,O,Michigan St.,22.0,15.0,0,4.0,4.0,0,0,False,,RogeCh01
+2003,3,Houston Texans,HOU,Andre Johnson,WR,WR,O,Miami (FL),22.0,193.0,12,94.0,92.0,7,2,True,,JohnAn02
+2003,4,New York Jets,NYJ,Dewayne Robertson,DT,DL,D,Kentucky,21.0,92.0,6,34.0,31.0,0,0,False,,RobeDe20
+2003,5,Dallas Cowboys,DAL,Terence Newman,DB,DB,D,Kansas St.,25.0,221.0,15,70.0,52.0,2,0,False,,NewmTe20
+2003,6,New Orleans Saints,NOR,Johnathan Sullivan,DT,DL,D,Georgia,22.0,36.0,1,10.0,10.0,0,0,False,,SullJo23
+2003,7,Jacksonville Jaguars,JAX,Byron Leftwich,QB,QB,O,Marshall,23.0,60.0,3,33.0,30.0,0,0,False,,LeftBy00
+2003,8,Carolina Panthers,CAR,Jordan Gross,T,OL,O,Utah,23.0,167.0,11,69.0,69.0,3,1,False,,GrosJo20
+2003,9,Minnesota Vikings,MIN,Kevin Williams,DT,DL,D,Oklahoma St.,23.0,203.0,12,102.0,98.0,6,5,False,,WillKe98
+2003,10,Baltimore Ravens,BAL,Terrell Suggs,LB,LB,D,Arizona St.,20.0,244.0,15,110.0,107.0,7,1,False,,SuggTe99
+2003,11,Seattle Seahawks,SEA,Marcus Trufant,DB,DB,D,Washington St.,22.0,136.0,8,49.0,49.0,1,0,False,,TrufMa20
+2003,12,St. Louis Rams,STL,Jimmy Kennedy,DT,DL,D,Penn St.,23.0,92.0,2,16.0,12.0,0,0,False,,KennJi21
+2003,13,New England Patriots,NWE,Ty Warren,DE,DL,D,Texas A&M,22.0,106.0,6,45.0,45.0,0,0,False,,WarrTy20
+2003,14,Chicago Bears,CHI,Michael Haynes,DE,DL,D,Penn St.,22.0,43.0,0,8.0,8.0,0,0,False,,HaynMi20
+2003,15,Philadelphia Eagles,PHI,Jerome McDougle,DE,DL,D,Miami (FL),24.0,37.0,0,3.0,3.0,0,0,False,,McDoJe20
+2003,16,Pittsburgh Steelers,PIT,Troy Polamalu,DB,DB,D,USC,22.0,158.0,10,96.0,96.0,8,4,True,,PolaTr99
+2003,17,Arizona Cardinals,ARI,Bryant Johnson,WR,WR,O,Penn St.,22.0,139.0,4,26.0,18.0,0,0,False,,JohnBr02
+2003,18,Arizona Cardinals,ARI,Calvin Pace,DE,DL,D,Wake Forest,22.0,187.0,10,61.0,13.0,0,0,False,,PaceCa20
+2003,19,Baltimore Ravens,BAL,Kyle Boller,QB,QB,O,California,22.0,67.0,4,16.0,17.0,0,0,False,,BollKy00
+2003,20,Denver Broncos,DEN,George Foster,T,OL,O,Georgia,23.0,68.0,4,31.0,26.0,0,0,False,,FostGe20
+2003,21,Cleveland Browns,CLE,Jeff Faine,C,OL,O,Notre Dame,22.0,125.0,8,45.0,11.0,0,0,False,,FainJe20
+2003,22,Chicago Bears,CHI,Rex Grossman,QB,QB,O,Florida,23.0,54.0,3,23.0,16.0,0,0,False,,GrosRe00
+2003,23,Buffalo Bills,BUF,Willis McGahee,RB,RB,O,Miami (FL),21.0,142.0,7,56.0,26.0,2,0,False,,McGaWi00
+2003,24,Indianapolis Colts,IND,Dallas Clark,TE,TE,O,Iowa,24.0,143.0,9,51.0,47.0,1,1,False,,ClarDa00
+2003,25,New York Giants,NYG,William Joseph,DT,DL,D,Miami (FL),24.0,69.0,1,11.0,11.0,0,0,False,,JoseWi20
+2003,26,San Francisco 49ers,SFO,Kwame Harris,T,OL,O,Stanford,21.0,86.0,3,22.0,19.0,0,0,False,,HarrKw20
+2003,27,Kansas City Chiefs,KAN,Larry Johnson,RB,RB,O,Penn St.,23.0,85.0,4,51.0,50.0,2,1,False,,JohnLa00
+2003,28,Tennessee Titans,TEN,Andre Woolfolk,DB,DB,D,Oklahoma,23.0,39.0,0,6.0,6.0,0,0,False,,WoolAn20
+2003,29,Green Bay Packers,GNB,Nick Barnett,LB,LB,D,Oregon St.,22.0,153.0,9,60.0,50.0,0,0,False,,BarnNi20
+2003,30,San Diego Chargers,SDG,Sammy Davis,DB,DB,D,Texas A&M,23.0,71.0,2,12.0,11.0,0,0,False,,DaviSa21
+2003,31,Oakland Raiders,OAK,Nnamdi Asomugha,DB,DB,D,California,22.0,157.0,8,64.0,56.0,3,2,False,,AsomNn20
+2003,32,Oakland Raiders,OAK,Tyler Brayton,DE,DL,D,Colorado,23.0,141.0,6,40.0,17.0,0,0,False,,BrayTy20
+2004,1,San Diego Chargers,SDG,Eli Manning,QB,QB,O,Mississippi,23.0,236.0,14,121.0,,4,0,False,0.25,MannEl00
+2004,2,Oakland Raiders,OAK,Robert Gallery,T,OL,O,Iowa,24.0,104.0,7,38.0,35.0,0,0,False,0.25,GallRo20
+2004,3,Arizona Cardinals,ARI,Larry Fitzgerald,WR,WR,O,Pittsburgh,21.0,263.0,17,93.0,93.0,11,1,True,0.25,FitzLa00
+2004,4,New York Giants,NYG,Philip Rivers,QB,QB,O,North Carolina St.,22.0,247.0,15,150.0,,8,0,False,0.25,RivePh00
+2004,5,Washington Redskins,WAS,Sean Taylor,DB,DB,D,Miami (FL),21.0,55.0,4,32.0,32.0,2,0,False,0.313,TaylSe20
+2004,6,Cleveland Browns,CLE,Kellen Winslow,TE,TE,O,Miami (FL),21.0,105.0,5,37.0,19.0,1,0,False,0.313,WinsKe01
+2004,7,Detroit Lions,DET,Roy Williams,WR,WR,O,Texas,22.0,115.0,7,42.0,30.0,1,0,False,0.313,WillRo04
+2004,8,Atlanta Falcons,ATL,DeAngelo Hall,DB,DB,D,Virginia Tech,20.0,171.0,10,61.0,28.0,3,0,False,0.313,HallDe99
+2004,9,Jacksonville Jaguars,JAX,Reggie Williams,WR,WR,O,Washington,21.0,79.0,3,23.0,23.0,0,0,False,0.313,WillRe00
+2004,10,Houston Texans,HOU,Dunta Robinson,DB,DB,D,South Carolina,22.0,139.0,8,41.0,23.0,0,0,False,0.313,RobiDu20
+2004,11,Pittsburgh Steelers,PIT,Ben Roethlisberger,QB,QB,O,Miami (OH),22.0,249.0,17,131.0,131.0,6,0,False,0.375,RoetBe00
+2004,12,New York Jets,NYJ,Jonathan Vilma,LB,LB,D,Miami (FL),22.0,125.0,8,56.0,25.0,3,0,False,0.375,VilmJo99
+2004,13,Buffalo Bills,BUF,Lee Evans,WR,WR,O,Wisconsin,23.0,118.0,7,47.0,47.0,0,0,False,0.375,EvanLe00
+2004,14,Chicago Bears,CHI,Tommie Harris,DT,DL,D,Oklahoma,21.0,117.0,6,56.0,55.0,3,0,False,0.438,HarrTo99
+2004,15,Tampa Bay Buccaneers,TAM,Michael Clayton,WR,WR,O,LSU,21.0,95.0,5,22.0,22.0,0,0,False,0.438,ClayMi00
+2004,16,Philadelphia Eagles,PHI,Shawn Andrews,G,OL,O,Arkansas,21.0,63.0,3,35.0,32.0,2,1,False,0.75,AndrSh55
+2004,17,Denver Broncos,DEN,D.J. Williams,LB,LB,D,Miami (FL),22.0,145.0,9,48.0,45.0,0,0,False,0.625,WillD.20
+2004,18,New Orleans Saints,NOR,Will Smith,DE,DL,D,Ohio St.,23.0,139.0,7,52.0,52.0,1,0,False,0.5,SmitWi99
+2004,19,Miami Dolphins,MIA,Vernon Carey,T,OL,O,Miami (FL),23.0,121.0,7,44.0,44.0,0,0,False,0.625,CareVe20
+2004,20,Minnesota Vikings,MIN,Kenechi Udeze,DE,DL,D,USC,21.0,51.0,3,20.0,20.0,0,0,False,0.563,UdezKe20
+2004,21,New England Patriots,NWE,Vince Wilfork,NT,DL,D,Miami (FL),22.0,189.0,11,90.0,81.0,5,1,False,0.875,WilfVi20
+2004,22,Buffalo Bills,BUF,J.P. Losman,QB,QB,O,Tulane,23.0,45.0,1,19.0,19.0,0,0,False,0.375,LosmJ.00
+2004,23,Seattle Seahawks,SEA,Marcus Tubbs,DT,DL,D,Texas,23.0,29.0,1,9.0,9.0,0,0,False,0.625,TubbMa20
+2004,24,St. Louis Rams,STL,Steven Jackson,RB,RB,O,Oregon St.,21.0,160.0,10,75.0,68.0,3,0,False,0.75,JackSt00
+2004,25,Green Bay Packers,GNB,Ahmad Carroll,DB,DB,D,Arkansas,21.0,57.0,2,14.0,13.0,0,0,False,0.625,CarrAh20
+2004,26,Cincinnati Bengals,CIN,Chris Perry,RB,RB,O,Michigan,22.0,35.0,0,9.0,9.0,0,0,False,0.5,PerrCh00
+2004,27,Houston Texans,HOU,Jason Babin,LB,LB,D,Western Michigan,24.0,148.0,5,46.0,9.0,2,0,False,0.313,BabiJa20
+2004,28,Carolina Panthers,CAR,Chris Gamble,DB,DB,D,Ohio St.,21.0,123.0,8,44.0,44.0,0,0,False,0.688,GambCh20
+2004,29,Atlanta Falcons,ATL,Michael Jenkins,WR,WR,O,Ohio St.,22.0,130.0,6,39.0,33.0,0,0,False,0.313,JenkMi00
+2004,30,Detroit Lions,DET,Kevin Jones,RB,RB,O,Virginia Tech,22.0,64.0,4,27.0,26.0,0,0,False,0.313,JoneKe02
+2004,31,San Francisco 49ers,SFO,Rashaun Woods,WR,WR,O,Oklahoma St.,23.0,14.0,0,1.0,1.0,0,0,False,0.438,WoodRa00
+2004,32,New England Patriots,NWE,Ben Watson,TE,TE,O,Georgia,23.0,205.0,11,40.0,19.0,0,0,False,0.875,WatsBe00
+2005,1,San Francisco 49ers,SFO,Alex Smith,QB,QB,O,Utah,21.0,174.0,14,98.0,28.0,3,0,False,0.125,SmitAl03
+2005,2,Miami Dolphins,MIA,Ronnie Brown,RB,RB,O,Auburn,23.0,132.0,6,41.0,36.0,1,0,False,0.25,BrowRo05
+2005,3,Cleveland Browns,CLE,Braylon Edwards,WR,WR,O,Michigan,22.0,112.0,5,41.0,27.0,1,0,False,0.25,EdwaBr00
+2005,4,Chicago Bears,CHI,Cedric Benson,RB,RB,O,Texas,22.0,96.0,6,36.0,10.0,0,0,False,0.313,BensCe00
+2005,5,Tampa Bay Buccaneers,TAM,Cadillac Williams,RB,RB,O,Auburn,23.0,81.0,4,28.0,27.0,0,0,False,0.313,WillCa02
+2005,6,Tennessee Titans,TEN,Adam Jones,DB,DB,D,West Virginia,21.0,146.0,6,50.0,13.0,1,1,False,0.313,JonePa20
+2005,7,Minnesota Vikings,MIN,Troy Williamson,WR,WR,O,South Carolina,22.0,49.0,1,8.0,8.0,0,0,False,0.5,WillTr01
+2005,8,Arizona Cardinals,ARI,Antrel Rolle,DB,DB,D,Miami (FL),22.0,155.0,9,57.0,20.0,3,0,False,0.375,RollAn20
+2005,9,Washington Redskins,WAS,Carlos Rogers,DB,DB,D,Auburn,24.0,133.0,7,47.0,26.0,1,0,False,0.375,RogeCa20
+2005,10,Detroit Lions,DET,Mike Williams,WR,WR,O,USC,21.0,56.0,2,12.0,4.0,0,0,False,0.375,WillMi03
+2005,11,Dallas Cowboys,DAL,DeMarcus Ware,LB,LB,D,Troy,23.0,178.0,11,100.0,88.0,9,4,True,0.375,WareDe99
+2005,12,San Diego Chargers,SDG,Shawne Merriman,LB,LB,D,Maryland,21.0,75.0,4,40.0,38.0,3,1,False,0.75,MerrSh99
+2005,13,New Orleans Saints,NOR,Jammal Brown,T,OL,O,Oklahoma,24.0,85.0,6,49.0,39.0,2,1,False,0.5,BrowJa55
+2005,14,Carolina Panthers,CAR,Thomas Davis,LB,LB,D,Georgia,22.0,199.0,12,80.0,74.0,3,1,False,0.438,DaviTh20
+2005,15,Kansas City Chiefs,KAN,Derrick Johnson,LB,LB,D,Texas,22.0,188.0,11,80.0,79.0,4,1,False,0.438,JohnDe25
+2005,16,Houston Texans,HOU,Travis Johnson,DT,DL,D,Florida St.,23.0,76.0,3,17.0,15.0,0,0,False,0.438,JohnTr20
+2005,17,Cincinnati Bengals,CIN,David Pollack,LB,LB,D,Georgia,23.0,16.0,0,3.0,3.0,0,0,False,0.5,PollDa20
+2005,18,Minnesota Vikings,MIN,Erasmus James,DE,DL,D,Wisconsin,22.0,28.0,1,6.0,6.0,0,0,False,0.5,JameEr20
+2005,19,St. Louis Rams,STL,Alex Barron,T,OL,O,Florida St.,22.0,87.0,5,27.0,27.0,0,0,False,0.5,BarrAl20
+2005,20,Dallas Cowboys,DAL,Marcus Spears,DE,DL,D,LSU,22.0,124.0,6,36.0,35.0,0,0,False,0.375,SpeaMa21
+2005,21,Jacksonville Jaguars,JAX,Matt Jones,WR,WR,O,Arkansas,22.0,54.0,1,22.0,22.0,0,0,False,0.563,JoneMa00
+2005,22,Baltimore Ravens,BAL,Mark Clayton,WR,WR,O,Oklahoma,23.0,83.0,5,28.0,26.0,0,0,False,0.563,ClayMa01
+2005,23,Oakland Raiders,OAK,Fabian Washington,DB,DB,D,Nebraska,22.0,81.0,4,20.0,9.0,0,0,False,0.313,WashFa20
+2005,24,Green Bay Packers,GNB,Aaron Rodgers,QB,QB,O,California,21.0,272.0,16,169.0,161.0,10,4,False,0.625,RodgAa00
+2005,25,Washington Redskins,WAS,Jason Campbell,QB,QB,O,Auburn,23.0,90.0,5,48.0,34.0,0,0,False,0.375,CampJa00
+2005,26,Seattle Seahawks,SEA,Chris Spencer,C,OL,O,Mississippi,23.0,137.0,6,38.0,29.0,0,0,False,0.563,SpenCh21
+2005,27,Atlanta Falcons,ATL,Roddy White,WR,WR,O,Ala-Birmingham,23.0,171.0,10,88.0,88.0,4,1,False,0.688,WhitRo00
+2005,28,San Diego Chargers,SDG,Luis Castillo,DE,DL,D,Northwestern,22.0,82.0,6,33.0,33.0,0,0,False,0.75,CastLu20
+2005,29,Indianapolis Colts,IND,Marlin Jackson,DB,DB,D,Michigan,22.0,56.0,2,14.0,14.0,0,0,False,0.75,JackMa22
+2005,30,Pittsburgh Steelers,PIT,Heath Miller,TE,TE,O,Virginia,22.0,168.0,11,45.0,45.0,2,0,False,0.938,MillHe00
+2005,31,Philadelphia Eagles,PHI,Mike Patterson,DT,DL,D,USC,22.0,147.0,6,48.0,44.0,0,0,False,0.813,PattMi20
+2005,32,New England Patriots,NWE,Logan Mankins,G,OL,O,Fresno St.,23.0,161.0,11,102.0,94.0,7,1,False,0.875,MankLo20
+2006,1,Houston Texans,HOU,Mario Williams,DE,DL,D,North Carolina St.,21.0,158.0,9,79.0,36.0,4,1,False,0.125,WillMa22
+2006,2,New Orleans Saints,NOR,Reggie Bush,RB,RB,O,USC,21.0,134.0,8,61.0,34.0,0,0,False,0.188,BushRe00
+2006,3,Tennessee Titans,TEN,Vince Young,QB,QB,O,Texas,23.0,60.0,4,33.0,31.0,2,0,False,0.25,YounVi00
+2006,4,New York Jets,NYJ,D'Brickashaw Ferguson,T,OL,O,Virginia,22.0,160.0,10,58.0,58.0,3,0,False,0.25,FergDB20
+2006,5,Green Bay Packers,GNB,A.J. Hawk,LB,LB,D,Ohio St.,22.0,159.0,10,55.0,52.0,1,0,False,0.25,HawkA.20
+2006,6,San Francisco 49ers,SFO,Vernon Davis,TE,TE,O,Maryland,22.0,198.0,11,51.0,42.0,2,0,False,0.25,DaviVe00
+2006,7,Oakland Raiders,OAK,Michael Huff,DB,DB,D,Texas,23.0,118.0,6,33.0,33.0,0,0,False,0.25,HuffMi20
+2006,8,Buffalo Bills,BUF,Donte Whitner,DB,DB,D,Ohio St.,21.0,157.0,10,47.0,19.0,2,0,False,0.313,WhitDo20
+2006,9,Detroit Lions,DET,Ernie Sims,LB,LB,D,Florida St.,21.0,109.0,4,29.0,18.0,0,0,False,0.313,SimsEr20
+2006,10,Arizona Cardinals,ARI,Matt Leinart,QB,QB,O,USC,23.0,33.0,1,12.0,12.0,0,0,False,0.313,LeinMa00
+2006,11,Denver Broncos,DEN,Jay Cutler,QB,QB,O,Vanderbilt,23.0,153.0,10,86.0,28.0,1,0,False,0.813,CutlJa00
+2006,12,Baltimore Ravens,BAL,Haloti Ngata,DT,DL,D,Oregon,22.0,180.0,12,100.0,92.0,5,2,False,0.375,NgatHa20
+2006,13,Cleveland Browns,CLE,Kamerion Wimbley,DE,DL,D,Florida St.,22.0,140.0,8,44.0,24.0,0,0,False,0.375,WimbKa20
+2006,14,Philadelphia Eagles,PHI,Brodrick Bunkley,DT,DL,D,Florida St.,22.0,130.0,7,40.0,25.0,0,0,False,0.375,BunkBr20
+2006,15,St. Louis Rams,STL,Tye Hill,DB,DB,D,Clemson,24.0,40.0,0,9.0,7.0,0,0,False,0.375,HillTy20
+2006,16,Miami Dolphins,MIA,Jason Allen,DB,DB,D,Tennessee,23.0,98.0,1,13.0,9.0,0,0,False,0.563,AlleJa23
+2006,17,Minnesota Vikings,MIN,Chad Greenway,LB,LB,D,Iowa,23.0,156.0,10,66.0,66.0,2,0,False,0.563,GreeCh99
+2006,18,Dallas Cowboys,DAL,Bobby Carpenter,LB,LB,D,Ohio St.,23.0,93.0,0,11.0,5.0,0,0,False,0.563,CarpBo20
+2006,19,San Diego Chargers,SDG,Antonio Cromartie,DB,DB,D,Florida St.,22.0,162.0,8,66.0,26.0,4,1,False,0.563,CromAn20
+2006,20,Kansas City Chiefs,KAN,Tamba Hali,DE,DL,D,Penn St.,22.0,177.0,10,75.0,75.0,5,0,False,0.625,HaliTa20
+2006,21,New England Patriots,NWE,Laurence Maroney,RB,RB,O,Minnesota,21.0,49.0,0,26.0,25.0,0,0,False,0.625,MaroLa00
+2006,22,San Francisco 49ers,SFO,Manny Lawson,DE,DL,D,North Carolina St.,22.0,143.0,7,47.0,23.0,0,0,False,0.25,LawsMa20
+2006,23,Tampa Bay Buccaneers,TAM,Davin Joseph,G,OL,O,Oklahoma,22.0,116.0,8,42.0,38.0,2,0,False,0.688,JoseDa20
+2006,24,Cincinnati Bengals,CIN,Johnathan Joseph,DB,DB,D,South Carolina,22.0,211.0,15,67.0,19.0,2,0,False,0.688,JoseJo20
+2006,25,Pittsburgh Steelers,PIT,Santonio Holmes,WR,WR,O,Ohio St.,22.0,112.0,6,47.0,35.0,0,0,False,0.688,HolmSa00
+2006,26,Buffalo Bills,BUF,John McCargo,DT,DL,D,North Carolina St.,23.0,44.0,0,4.0,4.0,0,0,False,0.313,McCaJo22
+2006,27,Carolina Panthers,CAR,DeAngelo Williams,RB,RB,O,Memphis,23.0,142.0,6,61.0,51.0,1,0,False,0.688,WillDe02
+2006,28,Jacksonville Jaguars,JAX,Marcedes Lewis,TE,TE,O,UCLA,22.0,290.0,15,35.0,33.0,1,0,False,0.75,LewiMa00
+2006,29,New York Jets,NYJ,Nick Mangold,C,OL,O,Ohio St.,22.0,164.0,11,73.0,73.0,7,2,False,0.25,MangNi20
+2006,30,Indianapolis Colts,IND,Joseph Addai,RB,RB,O,LSU,23.0,78.0,4,50.0,50.0,1,0,False,0.875,AddaJo00
+2006,31,Seattle Seahawks,SEA,Kelly Jennings,DB,DB,D,Miami (FL),23.0,91.0,2,18.0,17.0,0,0,False,0.813,JennKe20
+2006,32,New York Giants,NYG,Mathias Kiwanuka,DE,DL,D,Boston Col.,23.0,120.0,5,37.0,37.0,0,0,False,0.688,KiwaMa20
+2007,1,Oakland Raiders,OAK,JaMarcus Russell,QB,QB,O,LSU,22.0,31.0,2,6.0,6.0,0,0,False,0.125,RussJa00
+2007,2,Detroit Lions,DET,Calvin Johnson,WR,WR,O,Georgia Tech,21.0,135.0,9,78.0,78.0,6,3,True,0.188,JohnCa00
+2007,3,Cleveland Browns,CLE,Joe Thomas,T,OL,O,Wisconsin,22.0,167.0,10,85.0,85.0,10,6,True,0.25,ThomJo28
+2007,4,Tampa Bay Buccaneers,TAM,Gaines Adams,DE,DL,D,Clemson,24.0,47.0,1,17.0,17.0,0,0,False,0.25,AdamGa99
+2007,5,Arizona Cardinals,ARI,Levi Brown,T,OL,O,Penn St.,23.0,81.0,5,34.0,34.0,0,0,False,0.313,BrowLe20
+2007,6,Washington Redskins,WAS,LaRon Landry,DB,DB,D,LSU,22.0,103.0,7,39.0,26.0,1,0,False,0.313,LandLa99
+2007,7,Minnesota Vikings,MIN,Adrian Peterson,RB,RB,O,Oklahoma,22.0,184.0,12,101.0,89.0,7,4,False,0.375,PeteAd01
+2007,8,Atlanta Falcons,ATL,Jamaal Anderson,DE,DL,D,Arkansas,21.0,77.0,3,20.0,19.0,0,0,False,0.438,AndeJa98
+2007,9,Miami Dolphins,MIA,Ted Ginn Jr.,WR,WR,O,Ohio St.,22.0,193.0,7,52.0,15.0,0,0,False,0.375,GinnTe00
+2007,10,Houston Texans,HOU,Amobi Okoye,DT,DL,D,Louisville,20.0,87.0,4,24.0,21.0,0,0,False,0.375,OkoyAm99
+2007,11,San Francisco 49ers,SFO,Patrick Willis,LB,LB,D,Mississippi,22.0,112.0,7,93.0,93.0,7,5,True,0.438,WillPa98
+2007,12,Buffalo Bills,BUF,Marshawn Lynch,RB,RB,O,California,21.0,149.0,8,74.0,15.0,5,1,False,0.438,LyncMa00
+2007,13,St. Louis Rams,STL,Adam Carriker,DE,DL,D,Nebraska,23.0,65.0,3,22.0,9.0,0,0,False,0.5,CarrAd99
+2007,14,New York Jets,NYJ,Darrelle Revis,DB,DB,D,Pittsburgh,22.0,145.0,9,93.0,76.0,7,4,True,0.625,ReviDa99
+2007,15,Pittsburgh Steelers,PIT,Lawrence Timmons,LB,LB,D,Florida St.,21.0,172.0,9,72.0,68.0,1,0,False,0.5,TimmLa99
+2007,16,Green Bay Packers,GNB,Justin Harrell,DT,DL,D,Tennessee,23.0,14.0,0,2.0,2.0,0,0,False,0.5,HarrJu99
+2007,17,Denver Broncos,DEN,Jarvis Moss,DE,DL,D,Florida,23.0,53.0,0,3.0,2.0,0,0,False,0.563,MossJa99
+2007,18,Cincinnati Bengals,CIN,Leon Hall,DB,DB,D,Michigan,22.0,152.0,6,51.0,49.0,0,0,False,0.5,HallLe98
+2007,19,Tennessee Titans,TEN,Michael Griffin,DB,DB,D,Texas,22.0,154.0,9,55.0,53.0,2,0,False,0.5,GrifMi99
+2007,20,New York Giants,NYG,Aaron Ross,DB,DB,D,Texas,24.0,83.0,4,20.0,17.0,0,0,False,0.5,RossAa99
+2007,21,Jacksonville Jaguars,JAX,Reggie Nelson,DB,DB,D,Florida,23.0,181.0,11,63.0,12.0,2,0,False,0.5,NelsRe99
+2007,22,Cleveland Browns,CLE,Brady Quinn,QB,QB,O,Notre Dame,22.0,24.0,1,2.0,3.0,0,0,False,0.25,QuinBr00
+2007,23,Kansas City Chiefs,KAN,Dwayne Bowe,WR,WR,O,LSU,22.0,125.0,8,50.0,50.0,1,0,False,0.563,BoweDw00
+2007,24,New England Patriots,NWE,Brandon Meriweather,DB,DB,D,Miami (FL),23.0,112.0,6,33.0,22.0,2,0,False,0.75,MeriBr99
+2007,25,Carolina Panthers,CAR,Jon Beason,LB,LB,D,Miami (FL),22.0,93.0,5,55.0,48.0,3,1,False,0.5,BeasJo99
+2007,26,Dallas Cowboys,DAL,Anthony Spencer,DE,DL,D,Purdue,23.0,104.0,4,34.0,34.0,1,0,False,0.563,SpenAn99
+2007,27,New Orleans Saints,NOR,Robert Meachem,WR,WR,O,Tennessee,22.0,103.0,1,26.0,25.0,0,0,False,0.625,MeacRo00
+2007,28,San Francisco 49ers,SFO,Joe Staley,T,OL,O,Central Michigan,23.0,181.0,12,81.0,81.0,6,0,False,0.438,StalJo20
+2007,29,Baltimore Ravens,BAL,Ben Grubbs,G,OL,O,Auburn,23.0,129.0,9,56.0,26.0,2,0,False,0.813,GrubBe20
+2007,30,San Diego Chargers,SDG,Craig Davis,WR,WR,O,LSU,21.0,25.0,0,7.0,7.0,0,0,False,0.875,DaviCr00
+2007,31,Chicago Bears,CHI,Greg Olsen,TE,TE,O,Miami (FL),22.0,199.0,11,60.0,11.0,3,0,False,0.813,OlseGr00
+2007,32,Indianapolis Colts,IND,Anthony Gonzalez,WR,WR,O,Ohio St.,22.0,40.0,1,16.0,16.0,0,0,False,0.75,GonzAn00
+2008,1,Miami Dolphins,MIA,Jake Long,T,OL,O,Michigan,23.0,104.0,6,54.0,46.0,4,1,False,0.063,LongJa20
+2008,2,St. Louis Rams,STL,Chris Long,DE,DL,D,Virginia,23.0,162.0,6,48.0,40.0,0,0,False,0.188,LongCh99
+2008,3,Atlanta Falcons,ATL,Matt Ryan,QB,QB,O,Boston Col.,23.0,234.0,15,146.0,144.0,4,1,False,0.25,RyanMa00
+2008,4,Oakland Raiders,OAK,Darren McFadden,RB,RB,O,Arkansas,21.0,103.0,4,39.0,32.0,0,0,False,0.25,McFaDa00
+2008,5,Kansas City Chiefs,KAN,Glenn Dorsey,DT,DL,D,LSU,23.0,104.0,7,37.0,26.0,0,0,False,0.25,DorsGl99
+2008,6,New York Jets,NYJ,Vernon Gholston,DE,DL,D,Ohio St.,22.0,45.0,0,6.0,6.0,0,0,False,0.25,GholVe99
+2008,7,New Orleans Saints,NOR,Sedrick Ellis,DT,DL,D,USC,23.0,70.0,5,26.0,26.0,0,0,False,0.438,ElliSe99
+2008,8,Jacksonville Jaguars,JAX,Derrick Harvey,DE,DL,D,Florida,21.0,52.0,1,14.0,14.0,0,0,False,0.688,HarvDe99
+2008,9,Cincinnati Bengals,CIN,Keith Rivers,LB,LB,D,USC,22.0,74.0,4,24.0,15.0,0,0,False,0.438,RiveKe99
+2008,10,New England Patriots,NWE,Jerod Mayo,LB,LB,D,Tennessee,22.0,103.0,7,51.0,51.0,2,1,False,1.0,MayoJe99
+2008,11,Buffalo Bills,BUF,Leodis McKelvin,DB,DB,D,Troy,23.0,111.0,4,29.0,25.0,0,0,False,0.438,McKeLe99
+2008,12,Denver Broncos,DEN,Ryan Clady,T,OL,O,Boise St.,22.0,107.0,7,65.0,63.0,4,2,False,0.438,CladRy20
+2008,13,Carolina Panthers,CAR,Jonathan Stewart,RB,RB,O,Oregon,21.0,134.0,5,48.0,48.0,1,0,False,0.438,StewJo00
+2008,14,Chicago Bears,CHI,Chris Williams,T,OL,O,Vanderbilt,23.0,72.0,4,25.0,17.0,0,0,False,0.438,WillCh03
+2008,15,Kansas City Chiefs,KAN,Branden Albert,G,OL,O,Virginia,23.0,120.0,9,41.0,27.0,2,0,False,0.25,AlbeBr20
+2008,16,Arizona Cardinals,ARI,Dominique Rodgers-Cromartie,DB,DB,D,Tennessee St.,22.0,162.0,7,53.0,18.0,2,0,False,0.5,RodgDo99
+2008,17,Detroit Lions,DET,Gosder Cherilus,T,OL,O,Boston Col.,24.0,132.0,8,48.0,27.0,0,0,False,0.438,CherGo20
+2008,18,Baltimore Ravens,BAL,Joe Flacco,QB,QB,O,Delaware,23.0,211.0,12,97.0,89.0,1,0,False,0.313,FlacJo00
+2008,19,Carolina Panthers,CAR,Jeff Otah,T,OL,O,Pittsburgh,22.0,29.0,2,14.0,14.0,0,0,False,0.438,OtahJe20
+2008,20,Tampa Bay Buccaneers,TAM,Aqib Talib,DB,DB,D,Kansas,22.0,148.0,9,68.0,14.0,5,1,False,0.563,TaliAq99
+2008,21,Atlanta Falcons,ATL,Sam Baker,T,OL,O,USC,23.0,70.0,3,32.0,32.0,0,0,False,0.25,BakeSa21
+2008,22,Dallas Cowboys,DAL,Felix Jones,RB,RB,O,Arkansas,21.0,80.0,1,27.0,26.0,0,0,False,0.813,JoneFe00
+2008,23,Pittsburgh Steelers,PIT,Rashard Mendenhall,RB,RB,O,Illinois,21.0,72.0,4,29.0,26.0,0,0,False,0.625,MendRa00
+2008,24,Tennessee Titans,TEN,Chris Johnson,RB,RB,O,East Carolina,22.0,130.0,7,70.0,61.0,3,1,False,0.625,JohnCh04
+2008,25,Dallas Cowboys,DAL,Mike Jenkins,DB,DB,D,South Florida,23.0,101.0,4,27.0,21.0,1,0,False,0.813,JenkMi99
+2008,26,Houston Texans,HOU,Duane Brown,T,OL,O,Virginia Tech,23.0,220.0,15,91.0,56.0,5,1,False,0.5,BrowDu20
+2008,27,San Diego Chargers,SDG,Antoine Cason,DB,DB,D,Arizona,22.0,110.0,4,27.0,20.0,0,0,False,0.688,CasoAn99
+2008,28,Seattle Seahawks,SEA,Lawrence Jackson,DE,DL,D,USC,23.0,69.0,2,15.0,11.0,0,0,False,0.625,JackLa98
+2008,29,San Francisco 49ers,SFO,Kentwan Balmer,DT,DL,D,North Carolina,21.0,46.0,1,7.0,2.0,0,0,False,0.313,BalmKe99
+2008,30,New York Jets,NYJ,Dustin Keller,TE,TE,O,Purdue,23.0,72.0,3,22.0,22.0,0,0,False,0.25,KellDu00
+2008,31,New York Giants,NYG,Kenny Phillips,DB,DB,D,Miami (FL),21.0,59.0,2,16.0,15.0,0,0,False,0.625,PhilKe99
+2009,1,Detroit Lions,DET,Matthew Stafford,QB,QB,O,Georgia,21.0,247.0,16,133.0,91.0,3,1,False,0.0,StafMa00
+2009,2,St. Louis Rams,STL,Jason Smith,T,OL,O,Baylor,23.0,45.0,2,10.0,9.0,0,0,False,0.125,SmitJa22
+2009,3,Kansas City Chiefs,KAN,Tyson Jackson,DE,DL,D,LSU,23.0,122.0,7,34.0,23.0,0,0,False,0.125,JackTy98
+2009,4,Seattle Seahawks,SEA,Aaron Curry,LB,LB,D,Wake Forest,23.0,48.0,3,16.0,12.0,0,0,False,0.25,CurrAa99
+2009,5,New York Jets,NYJ,Mark Sanchez,QB,QB,O,USC,22.0,79.0,4,32.0,26.0,0,0,False,0.563,SancMa00
+2009,6,Cincinnati Bengals,CIN,Andre Smith,T,OL,O,Alabama,22.0,121.0,8,41.0,37.0,0,0,False,0.281,SmitAn23
+2009,7,Oakland Raiders,OAK,Darrius Heyward-Bey,WR,WR,O,Maryland,22.0,144.0,5,23.0,17.0,0,0,False,0.313,HeywDa00
+2009,8,Jacksonville Jaguars,JAX,Eugene Monroe,T,OL,O,Virginia,22.0,93.0,6,32.0,22.0,0,0,False,0.313,MonrEu20
+2009,9,Green Bay Packers,GNB,B.J. Raji,DT,DL,D,Boston Col.,23.0,91.0,5,33.0,33.0,1,0,False,0.375,RajiBJ99
+2009,10,San Francisco 49ers,SFO,Michael Crabtree,WR,WR,O,Texas Tech,21.0,143.0,10,53.0,33.0,0,0,False,0.438,CrabMi00
+2009,11,Buffalo Bills,BUF,Aaron Maybin,DE,DL,D,Penn St.,21.0,48.0,0,5.0,2.0,0,0,False,0.438,MaybAa99
+2009,12,Denver Broncos,DEN,Knowshon Moreno,RB,RB,O,Georgia,22.0,63.0,3,33.0,32.0,0,0,False,0.5,MoreKn00
+2009,13,Washington Redskins,WAS,Brian Orakpo,LB,LB,D,Texas,23.0,132.0,8,58.0,33.0,4,0,False,0.5,OrakBr99
+2009,14,New Orleans Saints,NOR,Malcolm Jenkins,DB,DB,D,Ohio St.,21.0,199.0,12,68.0,32.0,3,0,False,0.5,JenkMa99
+2009,15,Houston Texans,HOU,Brian Cushing,LB,LB,D,USC,22.0,104.0,7,52.0,52.0,1,0,False,0.5,CushBr99
+2009,16,San Diego Chargers,SDG,Larry English,LB,LB,D,Northern Illinois,23.0,64.0,1,7.0,7.0,0,0,False,0.5,EnglLa99
+2009,17,Tampa Bay Buccaneers,TAM,Josh Freeman,QB,QB,O,Kansas St.,21.0,62.0,4,37.0,36.0,0,0,False,0.563,FreeJo00
+2009,18,Denver Broncos,DEN,Robert Ayers,DE,DL,D,Tennessee,24.0,120.0,5,27.0,13.0,0,0,False,0.5,AyerRo99
+2009,19,Philadelphia Eagles,PHI,Jeremy Maclin,WR,WR,O,Missouri,21.0,114.0,8,50.0,33.0,0,0,False,0.594,MaclJe00
+2009,20,Detroit Lions,DET,Brandon Pettigrew,TE,TE,O,Oklahoma St.,24.0,93.0,7,22.0,22.0,0,0,False,0.0,PettBr00
+2009,21,Cleveland Browns,CLE,Alex Mack,C,OL,O,California,23.0,196.0,12,86.0,30.0,7,0,False,0.25,MackAl20
+2009,22,Minnesota Vikings,MIN,Percy Harvin,WR,WR,O,Florida,21.0,75.0,4,43.0,37.0,1,0,False,0.625,HarvPe00
+2009,23,Baltimore Ravens,BAL,Michael Oher,T,OL,O,Mississippi,23.0,110.0,7,42.0,33.0,0,0,False,0.688,OherMi20
+2009,24,Atlanta Falcons,ATL,Peria Jerry,DT,DL,D,Mississippi,25.0,64.0,2,13.0,13.0,0,0,False,0.688,JerrPe99
+2009,25,Miami Dolphins,MIA,Vontae Davis,DB,DB,D,Illinois,21.0,121.0,8,45.0,12.0,2,0,False,0.688,DaviVo99
+2009,26,Green Bay Packers,GNB,Clay Matthews,LB,LB,D,USC,23.0,156.0,10,77.0,75.0,6,1,False,0.375,MattCl99
+2009,27,Indianapolis Colts,IND,Donald Brown,RB,RB,O,Connecticut,22.0,89.0,1,25.0,21.0,0,0,False,0.75,BrowDo00
+2009,28,Buffalo Bills,BUF,Eric Wood,C,OL,O,Louisville,23.0,120.0,9,47.0,47.0,1,0,False,0.438,WoodEr20
+2009,29,New York Giants,NYG,Hakeem Nicks,WR,WR,O,North Carolina,21.0,92.0,4,40.0,37.0,0,0,False,0.75,NickHa01
+2009,30,Tennessee Titans,TEN,Kenny Britt,WR,WR,O,Rutgers,20.0,116.0,5,35.0,20.0,0,0,False,0.813,BritKe00
+2009,31,Arizona Cardinals,ARI,Beanie Wells,RB,RB,O,Ohio St.,21.0,51.0,2,14.0,14.0,0,0,False,0.563,WellCh00
+2009,32,Pittsburgh Steelers,PIT,Evander Hood,DE,DL,D,Missouri,22.0,142.0,5,38.0,27.0,0,0,False,0.75,HoodEv99
+2010,1,St. Louis Rams,STL,Sam Bradford,QB,QB,O,Oklahoma,22.0,83.0,5,44.0,25.0,0,0,False,0.063,BradSa00
+2010,2,Detroit Lions,DET,Ndamukong Suh,DT,DL,D,Nebraska,23.0,199.0,12,100.0,59.0,5,3,False,0.125,SuhxNd99
+2010,3,Tampa Bay Buccaneers,TAM,Gerald McCoy,DT,DL,D,Oklahoma,22.0,140.0,10,69.0,65.0,6,1,False,0.188,McCoGe99
+2010,4,Washington Redskins,WAS,Trent Williams,T,OL,O,Oklahoma,22.0,211.0,15,109.0,47.0,12,3,False,0.25,WillTr21
+2010,5,Kansas City Chiefs,KAN,Eric Berry,DB,DB,D,Tennessee,21.0,89.0,5,50.0,50.0,5,3,False,0.25,BerrEr99
+2010,6,Seattle Seahawks,SEA,Russell Okung,T,OL,O,Oklahoma St.,21.0,131.0,9,56.0,31.0,2,0,False,0.313,OkunRu20
+2010,7,Cleveland Browns,CLE,Joe Haden,DB,DB,D,Florida,21.0,158.0,10,62.0,39.0,3,0,False,0.313,HadeJo99
+2010,8,Oakland Raiders,OAK,Rolando McClain,LB,LB,D,Alabama,21.0,65.0,5,25.0,15.0,0,0,False,0.313,McClRo00
+2010,9,Buffalo Bills,BUF,C.J. Spiller,RB,RB,O,Clemson,23.0,90.0,3,34.0,32.0,1,0,False,0.375,SpilC.00
+2010,10,Jacksonville Jaguars,JAX,Tyson Alualu,DT,DL,D,California,23.0,193.0,7,45.0,33.0,0,0,False,0.438,AluaTy99
+2010,11,San Francisco 49ers,SFO,Anthony Davis,T,OL,O,Rutgers,20.0,72.0,4,31.0,31.0,0,0,False,0.5,DaviAn27
+2010,12,San Diego Chargers,SDG,Ryan Mathews,RB,RB,O,Fresno St.,22.0,86.0,5,44.0,37.0,1,0,False,0.813,MathRy00
+2010,13,Philadelphia Eagles,PHI,Brandon Graham,DE,DL,D,Michigan,22.0,215.0,6,59.0,59.0,1,0,False,0.688,GrahBr99
+2010,14,Seattle Seahawks,SEA,Earl Thomas,DB,DB,D,Texas,21.0,140.0,9,82.0,76.0,7,3,False,0.313,ThomEa99
+2010,15,New York Giants,NYG,Jason Pierre-Paul,DE,DL,D,South Florida,21.0,185.0,11,74.0,46.0,3,1,False,0.5,PierJa99
+2010,16,Tennessee Titans,TEN,Derrick Morgan,DE,DL,D,Georgia Tech,21.0,118.0,8,40.0,40.0,0,0,False,0.5,MorgDe99
+2010,17,San Francisco 49ers,SFO,Mike Iupati,G,OL,O,Idaho,23.0,140.0,10,67.0,42.0,4,1,False,0.5,IupaMi20
+2010,18,Pittsburgh Steelers,PIT,Maurkice Pouncey,C,OL,O,Florida,21.0,134.0,9,78.0,78.0,9,2,False,0.563,PounMa20
+2010,19,Atlanta Falcons,ATL,Sean Weatherspoon,LB,LB,D,Missouri,22.0,67.0,2,22.0,22.0,0,0,False,0.563,WeatSe99
+2010,20,Houston Texans,HOU,Kareem Jackson,DB,DB,D,Alabama,22.0,205.0,12,52.0,30.0,0,0,False,0.563,JackKa99
+2010,21,Cincinnati Bengals,CIN,Jermaine Gresham,TE,TE,O,Oklahoma,22.0,132.0,9,28.0,22.0,2,0,False,0.625,GresJe00
+2010,22,Denver Broncos,DEN,Demaryius Thomas,WR,WR,O,Georgia Tech,22.0,143.0,8,69.0,65.0,5,0,False,0.5,ThomDe03
+2010,23,Green Bay Packers,GNB,Bryan Bulaga,T,OL,O,Iowa,21.0,126.0,9,56.0,53.0,0,0,False,0.688,BulaBr20
+2010,24,Dallas Cowboys,DAL,Dez Bryant,WR,WR,O,Oklahoma St.,21.0,119.0,7,61.0,61.0,3,1,False,0.688,BryaDe01
+2010,25,Denver Broncos,DEN,Tim Tebow,QB,QB,O,Florida,23.0,35.0,1,12.0,11.0,0,0,False,0.5,TeboTi00
+2010,26,Arizona Cardinals,ARI,Dan Williams,DT,DL,D,Tennessee,23.0,102.0,6,29.0,20.0,0,0,False,0.625,WillDa99
+2010,27,New England Patriots,NWE,Devin McCourty,DB,DB,D,Rutgers,23.0,205.0,13,71.0,71.0,2,0,False,0.625,McCoDe99
+2010,28,Miami Dolphins,MIA,Jared Odrick,DE,DL,D,Penn St.,22.0,87.0,3,29.0,20.0,0,0,False,0.438,OdriJa99
+2010,29,New York Jets,NYJ,Kyle Wilson,DB,DB,D,Boise St.,23.0,95.0,2,16.0,14.0,0,0,False,0.563,WilsKy99
+2010,30,Detroit Lions,DET,Jahvid Best,RB,RB,O,California,21.0,22.0,2,13.0,13.0,0,0,False,0.125,BestJa00
+2010,31,Indianapolis Colts,IND,Jerry Hughes,DE,DL,D,TCU,22.0,225.0,9,68.0,3.0,0,0,False,0.875,HughJe99
+2010,32,New Orleans Saints,NOR,Patrick Robinson,DB,DB,D,Florida St.,23.0,123.0,1,25.0,15.0,0,0,False,0.813,RobiPa99
+2011,1,Carolina Panthers,CAR,Cam Newton,QB,QB,O,Auburn,22.0,148.0,9,115.0,107.0,3,1,False,0.125,NewtCa00
+2011,2,Denver Broncos,DEN,Von Miller,LB,LB,D,Texas A&M,22.0,211.0,10,105.0,97.0,8,3,False,0.25,MillVo00
+2011,3,Buffalo Bills,BUF,Marcell Dareus,DT,DL,D,Alabama,21.0,121.0,7,56.0,47.0,2,1,False,0.25,DareMa00
+2011,4,Cincinnati Bengals,CIN,A.J. Green,WR,WR,O,Georgia,23.0,158.0,10,77.0,71.0,7,0,False,0.25,GreeA.00
+2011,5,Arizona Cardinals,ARI,Patrick Peterson,DB,DB,D,LSU,21.0,201.0,13,103.0,95.0,8,3,False,0.313,PetePa00
+2011,6,Atlanta Falcons,ATL,Julio Jones,WR,WR,O,Alabama,22.0,166.0,9,101.0,97.0,7,2,False,0.813,JoneJu02
+2011,7,San Francisco 49ers,SFO,Aldon Smith,DE,DL,D,Missouri,21.0,75.0,4,34.0,24.0,1,1,False,0.375,SmitAl04
+2011,8,Tennessee Titans,TEN,Jake Locker,QB,QB,O,Washington,23.0,30.0,1,15.0,15.0,0,0,False,0.375,LockJa00
+2011,9,Dallas Cowboys,DAL,Tyron Smith,T,OL,O,USC,20.0,171.0,12,91.0,89.0,8,2,False,0.375,SmitTy00
+2011,10,Jacksonville Jaguars,JAX,Blaine Gabbert,QB,QB,O,Missouri,21.0,69.0,2,17.0,7.0,0,0,False,0.5,GabbBl00
+2011,11,Houston Texans,HOU,J.J. Watt,DE,DL,D,Wisconsin,22.0,151.0,10,110.0,105.0,5,5,False,0.375,WattJ.00
+2011,12,Minnesota Vikings,MIN,Christian Ponder,QB,QB,O,Florida St.,23.0,38.0,3,22.0,22.0,0,0,False,0.375,PondCh00
+2011,13,Detroit Lions,DET,Nick Fairley,DT,DL,D,Auburn,23.0,77.0,4,23.0,16.0,0,0,False,0.375,FairNi00
+2011,14,St. Louis Rams,STL,Robert Quinn,DE,DL,D,North Carolina,21.0,169.0,9,69.0,43.0,3,1,False,0.438,QuinRo00
+2011,15,Miami Dolphins,MIA,Mike Pouncey,G,OL,O,Florida,22.0,114.0,7,52.0,40.0,4,0,False,0.438,PounMi00
+2011,16,Washington Redskins,WAS,Ryan Kerrigan,DE,DL,D,Purdue,23.0,172.0,9,63.0,62.0,4,0,False,0.375,KerrRy00
+2011,17,New England Patriots,NWE,Nate Solder,T,OL,O,Colorado,23.0,146.0,9,64.0,49.0,0,0,False,0.875,SoldNa00
+2011,18,San Diego Chargers,SDG,Corey Liuget,DT,DL,D,Illinois,21.0,124.0,7,42.0,41.0,0,0,False,0.563,LiugCo00
+2011,19,New York Giants,NYG,Prince Amukamara,DB,DB,D,Nebraska,22.0,113.0,8,36.0,15.0,0,0,False,0.625,AmukPr00
+2011,20,Tampa Bay Buccaneers,TAM,Adrian Clayborn,DE,DL,D,Iowa,23.0,125.0,2,26.0,12.0,0,0,False,0.625,ClayAd00
+2011,21,Cleveland Browns,CLE,Phil Taylor,DT,DL,D,Baylor,23.0,44.0,2,19.0,19.0,0,0,False,0.313,TaylPh00
+2011,22,Indianapolis Colts,IND,Anthony Castonzo,T,OL,O,Boston Col.,23.0,144.0,10,58.0,58.0,0,0,False,0.625,CastAn00
+2011,23,Philadelphia Eagles,PHI,Danny Watkins,G,OL,O,Baylor,26.0,24.0,1,9.0,9.0,0,0,False,0.625,WatkDa00
+2011,24,New Orleans Saints,NOR,Cameron Jordan,DE,DL,D,California,22.0,249.0,15,109.0,109.0,8,1,False,0.688,JordCa00
+2011,25,Seattle Seahawks,SEA,James Carpenter,T,OL,O,Alabama,22.0,132.0,10,49.0,17.0,0,0,False,0.438,CarpJa00
+2011,26,Kansas City Chiefs,KAN,Jonathan Baldwin,WR,WR,O,Pittsburgh,22.0,33.0,1,4.0,4.0,0,0,False,0.625,BaldJo00
+2011,27,Baltimore Ravens,BAL,Jimmy Smith,DB,DB,D,Colorado,23.0,128.0,5,33.0,33.0,0,0,False,0.75,SmitJi03
+2011,28,New Orleans Saints,NOR,Mark Ingram,RB,RB,O,Alabama,21.0,156.0,5,66.0,51.0,3,0,False,0.688,IngrMa01
+2011,29,Chicago Bears,CHI,Gabe Carimi,T,OL,O,Wisconsin,23.0,48.0,1,12.0,7.0,0,0,False,0.688,CariGa00
+2011,30,New York Jets,NYJ,Muhammad Wilkerson,DT,DL,D,Temple,21.0,108.0,7,58.0,58.0,1,0,False,0.688,WilkMu00
+2011,31,Pittsburgh Steelers,PIT,Cameron Heyward,DE,DL,D,Ohio St.,22.0,236.0,13,115.0,115.0,7,4,False,0.75,HeywCa01
+2011,32,Green Bay Packers,GNB,Derek Sherrod,T,OL,O,Mississippi St.,22.0,20.0,0,3.0,3.0,0,0,False,0.625,SherDe00
+2012,1,Indianapolis Colts,IND,Andrew Luck,QB,QB,O,Stanford,22.0,86.0,5,72.0,72.0,4,0,False,0.125,LuckAn00
+2012,2,Washington Redskins,WAS,Robert Griffin III,QB,QB,O,Baylor,22.0,56.0,3,36.0,31.0,1,0,False,0.313,GrifRo01
+2012,3,Cleveland Browns,CLE,Trent Richardson,RB,RB,O,Alabama,22.0,46.0,3,17.0,7.0,0,0,False,0.25,RichTr00
+2012,4,Minnesota Vikings,MIN,Matt Kalil,T,OL,O,USC,23.0,82.0,5,34.0,29.0,1,0,False,0.188,KaliMa00
+2012,5,Jacksonville Jaguars,JAX,Justin Blackmon,WR,WR,O,Oklahoma St.,22.0,20.0,1,9.0,9.0,0,0,False,0.313,BlacJu00
+2012,6,Dallas Cowboys,DAL,Morris Claiborne,DB,DB,D,LSU,22.0,85.0,5,25.0,13.0,0,0,False,0.5,ClaiMo00
+2012,7,Tampa Bay Buccaneers,TAM,Mark Barron,DB,DB,D,Alabama,22.0,119.0,7,58.0,11.0,0,0,False,0.25,BarrMa00
+2012,8,Miami Dolphins,MIA,Ryan Tannehill,QB,QB,O,Texas A&M,24.0,155.0,10,91.0,47.0,1,0,False,0.375,TannRy00
+2012,9,Carolina Panthers,CAR,Luke Kuechly,LB,LB,D,Boston Col.,21.0,118.0,8,91.0,91.0,7,5,True,0.375,KuecLu00
+2012,10,Buffalo Bills,BUF,Stephon Gilmore,DB,DB,D,South Carolina,21.0,180.0,12,75.0,18.0,5,2,False,0.375,GilmSt00
+2012,11,Kansas City Chiefs,KAN,Dontari Poe,DT,DL,D,Memphis,22.0,128.0,8,55.0,41.0,2,0,False,0.438,PoexDo00
+2012,12,Philadelphia Eagles,PHI,Fletcher Cox,DT,DL,D,Mississippi St.,21.0,188.0,12,95.0,95.0,6,1,False,0.5,CoxxFl00
+2012,13,Arizona Cardinals,ARI,Michael Floyd,WR,WR,O,Notre Dame,22.0,102.0,3,28.0,27.0,0,0,False,0.5,FloyMi00
+2012,14,St. Louis Rams,STL,Michael Brockers,DT,DL,D,LSU,21.0,160.0,10,58.0,53.0,0,0,False,0.125,BrocMi00
+2012,15,Seattle Seahawks,SEA,Bruce Irvin,DE,DL,D,West Virginia,24.0,140.0,6,42.0,22.0,0,0,False,0.438,IrviBr00
+2012,16,New York Jets,NYJ,Quinton Coples,DE,DL,D,North Carolina,22.0,62.0,2,17.0,17.0,0,0,False,0.5,CoplQu00
+2012,17,Cincinnati Bengals,CIN,Dre Kirkpatrick,DB,DB,D,Alabama,22.0,119.0,5,31.0,25.0,0,0,False,0.563,KirkDr00
+2012,18,San Diego Chargers,SDG,Melvin Ingram,DE,DL,D,South Carolina,23.0,148.0,6,57.0,52.0,3,0,False,0.5,IngrMe00
+2012,19,Chicago Bears,CHI,Shea McClellin,DE,DL,D,Boise St.,23.0,66.0,3,17.0,13.0,0,0,False,0.5,McClSh00
+2012,20,Tennessee Titans,TEN,Kendall Wright,WR,WR,O,Baylor,22.0,82.0,3,28.0,24.0,0,0,False,0.563,WrigKe01
+2012,21,New England Patriots,NWE,Chandler Jones,DE,DL,D,Syracuse,22.0,154.0,10,77.0,25.0,4,2,False,0.813,JoneCh03
+2012,22,Cleveland Browns,CLE,Brandon Weeden,QB,QB,O,Oklahoma St.,28.0,35.0,1,13.0,10.0,0,0,False,0.25,WeedBr00
+2012,23,Detroit Lions,DET,Riley Reiff,T,OL,O,Iowa,23.0,164.0,10,60.0,27.0,0,0,False,0.625,ReifRi00
+2012,24,Pittsburgh Steelers,PIT,David DeCastro,G,OL,O,Stanford,22.0,125.0,8,69.0,69.0,6,2,False,0.75,DeCaDa00
+2012,25,New England Patriots,NWE,Dont'a Hightower,LB,LB,D,Alabama,22.0,117.0,8,65.0,65.0,2,0,False,0.813,HighDo01
+2012,26,Houston Texans,HOU,Whitney Mercilus,DE,DL,D,Illinois,22.0,138.0,8,49.0,49.0,0,0,False,0.625,MercWh00
+2012,27,Cincinnati Bengals,CIN,Kevin Zeitler,G,OL,O,Wisconsin,22.0,217.0,14,67.0,29.0,1,0,False,0.563,ZeitKe00
+2012,28,Green Bay Packers,GNB,Nick Perry,DE,DL,D,USC,22.0,81.0,3,22.0,22.0,0,0,False,0.938,PerrNi00
+2012,29,Minnesota Vikings,MIN,Harrison Smith,DB,DB,D,Notre Dame,23.0,214.0,13,72.0,72.0,6,1,False,0.188,SmitHa00
+2012,30,San Francisco 49ers,SFO,A.J. Jenkins,WR,WR,O,Illinois,22.0,28.0,0,2.0,0.0,0,0,False,0.813,JenkA.00
+2012,31,Tampa Bay Buccaneers,TAM,Doug Martin,RB,RB,O,Boise St.,23.0,84.0,7,39.0,35.0,2,1,False,0.25,MartDo00
+2012,32,New York Giants,NYG,David Wilson,RB,RB,O,Virginia Tech,21.0,21.0,0,5.0,5.0,0,0,False,0.563,WilsDa01
+2013,1,Kansas City Chiefs,KAN,Eric Fisher,T,OL,O,Central Michigan,22.0,132.0,8,62.0,56.0,2,0,False,0.125,FishEr00
+2013,2,Jacksonville Jaguars,JAX,Luke Joeckel,T,OL,O,Texas A&M,21.0,50.0,3,21.0,16.0,0,0,False,0.125,JoecLu00
+2013,3,Miami Dolphins,MIA,Dion Jordan,DE,DL,D,Oregon,23.0,63.0,0,9.0,3.0,0,0,False,0.438,JordDi00
+2013,4,Philadelphia Eagles,PHI,Lane Johnson,T,OL,O,Oklahoma,23.0,171.0,12,89.0,89.0,6,2,False,0.25,JohnLa01
+2013,5,Detroit Lions,DET,Ezekiel Ansah,DE,DL,D,BYU,24.0,93.0,5,39.0,37.0,1,0,False,0.25,AnsaEz00
+2013,6,Cleveland Browns,CLE,Barkevious Mingo,LB,LB,D,LSU,22.0,126.0,2,24.0,10.0,0,0,False,0.313,MingBa00
+2013,7,Arizona Cardinals,ARI,Jonathan Cooper,G,OL,O,North Carolina,23.0,46.0,2,16.0,7.0,0,0,False,0.313,CoopJo01
+2013,8,St. Louis Rams,STL,Tavon Austin,WR,WR,O,West Virginia,23.0,113.0,4,26.0,22.0,0,0,False,0.469,AustTa00
+2013,9,New York Jets,NYJ,Dee Milliner,DB,DB,D,Alabama,21.0,21.0,1,6.0,6.0,0,0,False,0.375,MillDe00
+2013,10,Tennessee Titans,TEN,Chance Warmack,G,OL,O,Alabama,21.0,68.0,3,22.0,20.0,0,0,False,0.375,WarmCh00
+2013,11,San Diego Chargers,SDG,D.J. Fluker,T,OL,O,Alabama,22.0,108.0,7,43.0,29.0,0,0,False,0.438,FlukDJ00
+2013,12,Oakland Raiders,OAK,D.J. Hayden,DB,DB,D,Houston,23.0,92.0,2,16.0,8.0,0,0,False,0.25,HaydDJ00
+2013,13,New York Jets,NYJ,Sheldon Richardson,DT,DL,D,Missouri,22.0,138.0,8,61.0,32.0,1,0,False,0.375,RichSh00
+2013,14,Carolina Panthers,CAR,Star Lotulelei,DT,DL,D,Utah,23.0,119.0,7,48.0,28.0,0,0,False,0.438,LotuSt00
+2013,15,New Orleans Saints,NOR,Kenny Vaccaro,DB,DB,D,Texas,22.0,110.0,7,34.0,20.0,0,0,False,0.438,VaccKe00
+2013,16,Buffalo Bills,BUF,EJ Manuel,QB,QB,O,Florida St.,23.0,30.0,1,10.0,10.0,0,0,False,0.375,ManuEJ00
+2013,17,Pittsburgh Steelers,PIT,Jarvis Jones,LB,LB,D,Georgia,23.0,50.0,1,17.0,17.0,0,0,False,0.5,JoneJa05
+2013,18,San Francisco 49ers,SFO,Eric Reid,DB,DB,D,LSU,21.0,99.0,7,33.0,26.0,1,0,False,0.719,ReidEr00
+2013,19,New York Giants,NYG,Justin Pugh,T,OL,O,Syracuse,23.0,132.0,10,46.0,25.0,0,0,False,0.563,PughJu00
+2013,20,Chicago Bears,CHI,Kyle Long,G,OL,O,Oregon,24.0,77.0,6,40.0,40.0,3,0,False,0.625,LongKy00
+2013,21,Cincinnati Bengals,CIN,Tyler Eifert,TE,TE,O,Notre Dame,22.0,74.0,2,19.0,17.0,1,0,False,0.625,EifeTy00
+2013,22,Atlanta Falcons,ATL,Desmond Trufant,DB,DB,D,Washington,22.0,113.0,8,37.0,35.0,1,0,False,0.813,TrufDe00
+2013,23,Minnesota Vikings,MIN,Sharrif Floyd,DT,DL,D,Florida,21.0,44.0,2,13.0,13.0,0,0,False,0.625,FloySh00
+2013,24,Indianapolis Colts,IND,Bjoern Werner,DE,DL,D,Florida St.,23.0,38.0,1,10.0,10.0,0,0,False,0.688,WernBj00
+2013,25,Minnesota Vikings,MIN,Xavier Rhodes,DB,DB,D,Florida St.,23.0,135.0,8,49.0,43.0,3,1,False,0.625,RhodXa00
+2013,26,Green Bay Packers,GNB,Datone Jones,DE,DL,D,UCLA,23.0,68.0,0,10.0,9.0,0,0,False,0.688,JoneDa03
+2013,27,Houston Texans,HOU,DeAndre Hopkins,WR,WR,O,Clemson,21.0,195.0,10,84.0,54.0,5,3,False,0.75,HopkDe00
+2013,28,Denver Broncos,DEN,Sylvester Williams,DT,DL,D,North Carolina,24.0,102.0,4,29.0,22.0,0,0,False,0.813,WillSy00
+2013,29,Minnesota Vikings,MIN,Cordarrelle Patterson,WR,WR,O,Tennessee,22.0,183.0,4,42.0,16.0,4,4,False,0.625,PattCo00
+2013,30,St. Louis Rams,STL,Alec Ogletree,LB,LB,D,Georgia,21.0,111.0,7,52.0,37.0,0,0,False,0.469,OgleAl00
+2013,31,Dallas Cowboys,DAL,Travis Frederick,C,OL,O,Wisconsin,22.0,96.0,6,60.0,60.0,5,1,False,0.5,FredTr00
+2013,32,Baltimore Ravens,BAL,Matt Elam,DB,DB,D,Florida,22.0,41.0,2,12.0,12.0,0,0,False,0.625,ElamMa00
+2014,1,Houston Texans,HOU,Jadeveon Clowney,DE,DL,D,South Carolina,21.0,158.0,10,63.0,38.0,3,0,False,0.125,ClowJa00
+2014,2,St. Louis Rams,STL,Greg Robinson,T,OL,O,Auburn,21.0,83.0,5,24.0,13.0,0,0,False,0.438,RobiGr01
+2014,3,Jacksonville Jaguars,JAX,Blake Bortles,QB,QB,O,Central Florida,22.0,78.0,5,44.0,44.0,0,0,False,0.25,BortBl00
+2014,4,Buffalo Bills,BUF,Sammy Watkins,WR,WR,O,Clemson,21.0,111.0,6,43.0,20.0,0,0,False,0.375,WatkSa00
+2014,5,Oakland Raiders,OAK,Khalil Mack,LB,LB,D,Buffalo,23.0,186.0,11,105.0,41.0,9,3,False,0.25,MackKh00
+2014,6,Atlanta Falcons,ATL,Jake Matthews,T,OL,O,Texas A&M,22.0,204.0,12,75.0,75.0,1,0,False,0.25,MattJa00
+2014,7,Tampa Bay Buccaneers,TAM,Mike Evans,WR,WR,O,Texas A&M,21.0,182.0,11,80.0,80.0,6,0,False,0.25,EvanMi00
+2014,8,Cleveland Browns,CLE,Justin Gilbert,DB,DB,D,Oklahoma St.,22.0,35.0,0,4.0,3.0,0,0,False,0.25,GilbJu00
+2014,9,Minnesota Vikings,MIN,Anthony Barr,LB,LB,D,UCLA,22.0,116.0,7,56.0,52.0,4,0,False,0.344,BarrAn00
+2014,10,Detroit Lions,DET,Eric Ebron,TE,TE,O,North Carolina,21.0,106.0,4,29.0,15.0,1,0,False,0.438,EbroEr00
+2014,11,Tennessee Titans,TEN,Taylor Lewan,T,OL,O,Michigan,23.0,105.0,7,48.0,48.0,3,0,False,0.438,LewaTa00
+2014,12,New York Giants,NYG,Odell Beckham Jr.,WR,WR,O,LSU,21.0,122.0,6,59.0,41.0,3,0,False,0.438,BeckOd00
+2014,13,St. Louis Rams,STL,Aaron Donald,DT,DL,D,Pittsburgh,23.0,160.0,10,123.0,123.0,10,8,False,0.438,DonaAa00
+2014,14,Chicago Bears,CHI,Kyle Fuller,DB,DB,D,Virginia Tech,22.0,113.0,5,48.0,45.0,2,1,False,0.5,FullKy00
+2014,15,Pittsburgh Steelers,PIT,Ryan Shazier,LB,LB,D,Ohio St.,22.0,46.0,3,27.0,27.0,2,0,False,0.5,ShazRy00
+2014,16,Dallas Cowboys,DAL,Zack Martin,G,OL,O,Notre Dame,23.0,162.0,11,103.0,103.0,9,7,False,0.5,MartZa00
+2014,17,Baltimore Ravens,BAL,C.J. Mosley,LB,LB,D,Alabama,22.0,133.0,8,81.0,59.0,5,0,False,0.5,MoslC.00
+2014,18,New York Jets,NYJ,Calvin Pryor,DB,DB,D,Louisville,22.0,46.0,3,13.0,13.0,0,0,False,0.5,PryoCa00
+2014,19,Miami Dolphins,MIA,Ja'Wuan James,T,OL,O,Tennessee,22.0,66.0,4,27.0,26.0,0,0,False,0.5,JameJa01
+2014,20,New Orleans Saints,NOR,Brandin Cooks,WR,WR,O,Oregon St.,20.0,177.0,10,73.0,21.0,0,0,False,0.688,CookBr00
+2014,21,Green Bay Packers,GNB,Ha Ha Clinton-Dix,DB,DB,D,Alabama,21.0,98.0,6,34.0,24.0,1,0,False,0.531,ClinHa00
+2014,22,Cleveland Browns,CLE,Johnny Manziel,QB,QB,O,Texas A&M,21.0,14.0,0,4.0,4.0,0,0,False,0.25,ManzJo00
+2014,23,Kansas City Chiefs,KAN,Dee Ford,LB,LB,D,Auburn,23.0,85.0,2,23.0,21.0,1,0,False,0.688,FordDe00
+2014,24,Cincinnati Bengals,CIN,Darqueze Dennard,DB,DB,D,Michigan St.,22.0,87.0,0,13.0,12.0,0,0,False,0.688,DennDa00
+2014,25,San Diego Chargers,SDG,Jason Verrett,DB,DB,D,TCU,23.0,41.0,2,17.0,13.0,1,0,False,0.563,VerrJa00
+2014,26,Philadelphia Eagles,PHI,Marcus Smith,LB,LB,D,Louisville,22.0,53.0,0,4.0,3.0,0,0,False,0.625,SmitMa03
+2014,27,Arizona Cardinals,ARI,Deone Bucannon,DB,DB,D,Washington St.,22.0,84.0,4,32.0,29.0,0,0,False,0.625,BucaDe00
+2014,28,Carolina Panthers,CAR,Kelvin Benjamin,WR,WR,O,Florida St.,23.0,61.0,4,22.0,18.0,0,0,False,0.75,BenjKe00
+2014,29,New England Patriots,NWE,Dominique Easley,DT,DL,D,Florida,22.0,41.0,0,7.0,4.0,0,0,False,0.75,EaslDo00
+2014,30,San Francisco 49ers,SFO,Jimmie Ward,DB,DB,D,Northern Illinois,23.0,126.0,6,31.0,25.0,0,0,False,0.75,WardJi01
+2014,31,Denver Broncos,DEN,Bradley Roby,DB,DB,D,Ohio St.,22.0,135.0,4,26.0,14.0,0,0,False,0.813,RobyBr00
+2014,32,Minnesota Vikings,MIN,Teddy Bridgewater,QB,QB,O,Louisville,21.0,83.0,4,49.0,22.0,1,0,False,0.344,BridTe00
+2015,1,Tampa Bay Buccaneers,TAM,Jameis Winston,QB,QB,O,Florida St.,21.0,114.0,5,63.0,54.0,1,0,False,0.125,WinsJa00
+2015,2,Tennessee Titans,TEN,Marcus Mariota,QB,QB,O,Oregon,21.0,107.0,5,60.0,43.0,0,0,False,0.125,MariMa01
+2015,3,Jacksonville Jaguars,JAX,Dante Fowler,OLB,LB,D,Florida,21.0,167.0,3,31.0,5.0,0,0,False,0.188,FowlDa00
+2015,4,Oakland Raiders,OAK,Amari Cooper,WR,WR,O,Alabama,21.0,154.0,9,66.0,22.0,5,0,False,0.188,CoopAm00
+2015,5,Washington Redskins,WAS,Brandon Scherff,T,OL,O,Iowa,23.0,140.0,10,62.0,45.0,5,1,False,0.25,ScheBr00
+2015,6,New York Jets,NYJ,Leonard Williams,DE,DL,D,USC,21.0,183.0,10,78.0,26.0,3,0,False,0.25,WillLe02
+2015,7,Chicago Bears,CHI,Kevin White,WR,WR,O,West Virginia,23.0,30.0,0,3.0,2.0,0,0,False,0.313,WhitKe00
+2015,8,Atlanta Falcons,ATL,Vic Beasley,OLB,LB,D,Clemson,23.0,88.0,5,32.0,32.0,1,1,False,0.375,BeasVi00
+2015,9,New York Giants,NYG,Ereck Flowers,T,OL,O,Miami (FL),21.0,105.0,7,35.0,18.0,0,0,False,0.375,FlowEr00
+2015,10,St. Louis Rams,STL,Todd Gurley,RB,RB,O,Georgia,21.0,88.0,6,54.0,50.0,3,2,False,0.375,GurlTo01
+2015,11,Minnesota Vikings,MIN,Trae Waynes,CB,DB,D,Michigan St.,23.0,79.0,3,18.0,18.0,0,0,False,0.438,WaynTr00
+2015,12,Cleveland Browns,CLE,Danny Shelton,NT,DL,D,Washington,22.0,101.0,5,33.0,15.0,0,0,False,0.438,ShelDa01
+2015,13,New Orleans Saints,NOR,Andrus Peat,T,OL,O,Stanford,21.0,132.0,7,53.0,52.0,3,0,False,0.438,PeatAn00
+2015,14,Miami Dolphins,MIA,DeVante Parker,WR,WR,O,Louisville,22.0,119.0,6,36.0,32.0,0,0,False,0.5,ParkDe01
+2015,15,San Diego Chargers,SDG,Melvin Gordon,RB,RB,O,Wisconsin,22.0,112.0,7,51.0,38.0,2,0,False,0.563,GordMe00
+2015,16,Houston Texans,HOU,Kevin Johnson,CB,DB,D,Wake Forest,23.0,64.0,0,11.0,8.0,0,0,False,0.563,JohnKe04
+2015,17,San Francisco 49ers,SFO,Arik Armstead,DT,DL,D,Oregon,21.0,156.0,7,45.0,40.0,0,0,False,0.5,ArmsAr01
+2015,18,Kansas City Chiefs,KAN,Marcus Peters,CB,DB,D,Washington,22.0,116.0,7,63.0,32.0,3,2,False,0.563,PeteMa00
+2015,19,Cleveland Browns,CLE,Cameron Erving,C,OL,O,Florida St.,23.0,98.0,3,28.0,6.0,0,0,False,0.438,ErviCa00
+2015,20,Philadelphia Eagles,PHI,Nelson Agholor,WR,WR,O,USC,22.0,149.0,7,36.0,18.0,0,0,False,0.625,AghoNe00
+2015,21,Cincinnati Bengals,CIN,Cedric Ogbuehi,T,OL,O,Texas A&M,23.0,67.0,2,17.0,11.0,0,0,False,0.656,OgbuCe00
+2015,22,Pittsburgh Steelers,PIT,Bud Dupree,OLB,LB,D,Kentucky,22.0,158.0,6,46.0,30.0,0,0,False,0.688,DuprAl00
+2015,23,Denver Broncos,DEN,Shane Ray,DE,DL,D,Missouri,22.0,49.0,1,12.0,12.0,0,0,False,0.75,RayxSh00
+2015,24,Arizona Cardinals,ARI,D.J. Humphries,T,OL,O,Florida,21.0,108.0,7,45.0,44.0,1,0,False,0.688,HumpD.00
+2015,25,Carolina Panthers,CAR,Shaq Thompson,OLB,LB,D,Washington,21.0,135.0,8,43.0,41.0,0,0,False,0.469,ThomSh01
+2015,26,Baltimore Ravens,BAL,Breshad Perriman,WR,WR,O,Central Florida,21.0,80.0,1,15.0,4.0,0,0,False,0.625,PerrBr02
+2015,27,Dallas Cowboys,DAL,Byron Jones,CB,DB,D,Connecticut,22.0,109.0,7,38.0,29.0,1,0,False,0.75,JoneBy00
+2015,28,Detroit Lions,DET,Laken Tomlinson,G,OL,O,Duke,23.0,178.0,10,55.0,11.0,1,0,False,0.688,TomlLa01
+2015,29,Indianapolis Colts,IND,Phillip Dorsett,WR,WR,O,Miami (FL),22.0,94.0,0,16.0,7.0,0,0,False,0.688,DorsPh00
+2015,30,Green Bay Packers,GNB,Damarious Randall,S,DB,D,Arizona St.,23.0,75.0,5,21.0,11.0,0,0,False,0.75,RandDa00
+2015,31,New Orleans Saints,NOR,Stephone Anthony,ILB,LB,D,Clemson,23.0,62.0,1,10.0,9.0,0,0,False,0.438,AnthSt00
+2015,32,New England Patriots,NWE,Malcom Brown,DT,DL,D,Texas,21.0,106.0,6,43.0,27.0,0,0,False,0.75,BrowMa01
+2016,1,Los Angeles Rams,LAR,Jared Goff,QB,QB,O,California,21.0,158.0,9,106.0,44.0,5,0,False,0.438,GoffJa00
+2016,2,Philadelphia Eagles,PHI,Carson Wentz,QB,QB,O,North Dakota St.,23.0,105.0,6,63.0,43.0,1,0,False,0.438,WentCa00
+2016,3,San Diego Chargers,SDG,Joey Bosa,DE,DL,D,Ohio St.,21.0,122.0,7,62.0,56.0,5,0,False,0.25,BosaJo00
+2016,4,Dallas Cowboys,DAL,Ezekiel Elliott,RB,RB,O,Ohio St.,21.0,135.0,7,68.0,65.0,3,1,False,0.25,ElliEz00
+2016,5,Jacksonville Jaguars,JAX,Jalen Ramsey,CB,DB,D,Florida St.,21.0,160.0,10,84.0,28.0,8,3,False,0.313,RamsJa00
+2016,6,Baltimore Ravens,BAL,Ronnie Stanley,T,OL,O,Notre Dame,22.0,127.0,8,64.0,64.0,2,1,False,0.313,StanRo00
+2016,7,San Francisco 49ers,SFO,DeForest Buckner,DE,DL,D,Oregon,22.0,158.0,9,76.0,34.0,3,1,False,0.313,BuckDe00
+2016,8,Tennessee Titans,TEN,Jack Conklin,T,OL,O,Michigan St.,22.0,114.0,6,55.0,30.0,0,2,False,0.188,ConkJa00
+2016,9,Chicago Bears,CHI,Leonard Floyd,OLB,LB,D,Georgia,23.0,153.0,10,63.0,21.0,0,0,False,0.375,FloyLe00
+2016,10,New York Giants,NYG,Eli Apple,CB,DB,D,Ohio St.,21.0,104.0,5,28.0,9.0,0,0,False,0.375,ApplEl00
+2016,11,Tampa Bay Buccaneers,TAM,Vernon Hargreaves III,CB,DB,D,Florida,21.0,69.0,4,18.0,10.0,0,0,False,0.375,HargVe00
+2016,12,New Orleans Saints,NOR,Sheldon Rankins,DT,DL,D,Louisville,22.0,140.0,6,41.0,15.0,0,0,False,0.438,RankSh00
+2016,13,Miami Dolphins,MIA,Laremy Tunsil,T,OL,O,Mississippi,22.0,139.0,9,60.0,12.0,5,0,False,0.375,TunsLa00
+2016,14,Oakland Raiders,OAK,Karl Joseph,S,DB,D,West Virginia,22.0,65.0,4,16.0,14.0,0,0,False,0.438,JoseKa00
+2016,15,Cleveland Browns,CLE,Corey Coleman,WR,WR,O,Baylor,22.0,27.0,2,6.0,5.0,0,0,False,0.188,ColeCo00
+2016,16,Detroit Lions,DET,Taylor Decker,T,OL,O,Ohio St.,23.0,140.0,9,59.0,59.0,1,0,False,0.438,DeckTa00
+2016,17,Atlanta Falcons,ATL,Keanu Neal,S,DB,D,Florida,21.0,89.0,3,25.0,17.0,1,0,False,0.5,NealKe01
+2016,18,Indianapolis Colts,IND,Ryan Kelly,C,OL,O,Alabama,23.0,129.0,9,56.0,54.0,4,0,False,0.5,KellRy00
+2016,19,Buffalo Bills,BUF,Shaq Lawson,DE,DL,D,Clemson,22.0,110.0,1,24.0,15.0,0,0,False,0.5,LawsSh00
+2016,20,New York Jets,NYJ,Darron Lee,OLB,LB,D,Ohio St.,21.0,58.0,3,19.0,17.0,0,0,False,0.625,LeexDa00
+2016,21,Houston Texans,HOU,Will Fuller,WR,WR,O,Notre Dame,22.0,55.0,5,24.0,24.0,0,0,False,0.563,FullWi01
+2016,22,Washington Redskins,WAS,Josh Doctson,WR,WR,O,TCU,23.0,34.0,2,9.0,9.0,0,0,False,0.563,DoctJo00
+2016,23,Minnesota Vikings,MIN,Laquon Treadwell,WR,WR,O,Mississippi,21.0,101.0,2,8.0,5.0,0,0,False,0.688,TreaLa00
+2016,24,Cincinnati Bengals,CIN,William Jackson III,CB,DB,D,Houston,23.0,75.0,4,19.0,15.0,0,0,False,0.75,JackWi02
+2016,25,Pittsburgh Steelers,PIT,Artie Burns,CB,DB,D,Miami (FL),21.0,90.0,1,17.0,14.0,0,0,False,0.625,BurnAr00
+2016,26,Denver Broncos,DEN,Paxton Lynch,QB,QB,O,Memphis,22.0,5.0,0,2.0,2.0,0,0,False,0.75,LyncPa00
+2016,27,Green Bay Packers,GNB,Kenny Clark,DT,DL,D,UCLA,20.0,165.0,9,63.0,60.0,3,0,False,0.625,ClarKe01
+2016,28,San Francisco 49ers,SFO,Joshua Garnett,G,OL,O,Stanford,22.0,25.0,1,5.0,5.0,0,0,False,0.313,GarnJo00
+2016,29,Arizona Cardinals,ARI,Robert Nkemdiche,DT,DL,D,Mississippi,21.0,38.0,0,6.0,5.0,0,0,False,0.813,NkemRo00
+2016,30,Carolina Panthers,CAR,Vernon Butler,DT,DL,D,Louisiana Tech,22.0,77.0,2,13.0,8.0,0,0,False,0.938,ButlVe00
+2016,31,Seattle Seahawks,SEA,Germain Ifedi,G,OL,O,Texas A&M,22.0,117.0,4,38.0,29.0,0,0,False,0.625,IfedGe00
+2017,1,Cleveland Browns,CLE,Myles Garrett,DE,DL,D,Texas A&M,21.0,135.0,9,104.0,104.0,7,5,False,0.063,GarrMy00
+2017,2,Chicago Bears,CHI,Mitchell Trubisky,QB,QB,O,North Carolina,23.0,82.0,4,40.0,34.0,1,0,False,0.188,TrubMi00
+2017,3,San Francisco 49ers,SFO,Solomon Thomas,DE,DL,D,Stanford,21.0,139.0,2,21.0,15.0,0,0,False,0.125,ThomSo00
+2017,4,Jacksonville Jaguars,JAX,Leonard Fournette,RB,RB,O,LSU,22.0,81.0,5,38.0,19.0,0,0,False,0.188,FourLe00
+2017,5,Tennessee Titans,TEN,Corey Davis,WR,WR,O,Western Michigan,22.0,78.0,5,31.0,24.0,0,0,False,0.563,DaviCo03
+2017,6,New York Jets,NYJ,Jamal Adams,S,DB,D,LSU,21.0,102.0,6,47.0,29.0,3,1,False,0.313,AdamJa00
+2017,7,Los Angeles Chargers,LAC,Mike Williams,WR,WR,O,Clemson,22.0,106.0,4,38.0,37.0,0,0,False,0.313,WillMi07
+2017,8,Carolina Panthers,CAR,Christian McCaffrey,RB,RB,O,Stanford,21.0,119.0,6,86.0,43.0,4,3,False,0.375,McCaCh01
+2017,9,Cincinnati Bengals,CIN,John Ross,WR,WR,O,Washington,21.0,38.0,1,7.0,5.0,0,0,False,0.406,RossJo00
+2017,10,Kansas City Chiefs,KAN,Patrick Mahomes,QB,QB,O,Texas Tech,21.0,133.0,8,115.0,115.0,6,2,False,0.75,MahoPa00
+2017,11,New Orleans Saints,NOR,Marshon Lattimore,CB,DB,D,Ohio St.,21.0,108.0,7,43.0,41.0,4,0,False,0.438,LattMa01
+2017,12,Houston Texans,HOU,Deshaun Watson,QB,QB,O,Clemson,21.0,81.0,4,58.0,52.0,3,0,False,0.563,WatsDe00
+2017,13,Arizona Cardinals,ARI,Haason Reddick,LB,LB,D,Temple,22.0,137.0,6,47.0,14.0,2,0,False,0.469,ReddHa00
+2017,14,Philadelphia Eagles,PHI,Derek Barnett,DE,DL,D,Tennessee,21.0,120.0,3,27.0,22.0,0,0,False,0.438,BarnDe01
+2017,15,Indianapolis Colts,IND,Malik Hooker,S,DB,D,Ohio St.,21.0,118.0,6,26.0,13.0,0,0,False,0.5,HookMa00
+2017,16,Baltimore Ravens,BAL,Marlon Humphrey,CB,DB,D,Alabama,21.0,139.0,8,62.0,62.0,4,2,False,0.5,HumpMa00
+2017,17,Washington Redskins,WAS,Jonathan Allen,DE,DL,D,Alabama,22.0,133.0,8,57.0,48.0,2,0,False,0.531,AlleJo01
+2017,18,Tennessee Titans,TEN,Adoree' Jackson,CB,DB,D,USC,21.0,111.0,7,30.0,15.0,0,0,False,0.563,JackAd00
+2017,19,Tampa Bay Buccaneers,TAM,O.J. Howard,TE,TE,O,Alabama,22.0,72.0,4,13.0,12.0,0,0,False,0.563,HowaO.00
+2017,20,Denver Broncos,DEN,Garett Bolles,T,OL,O,Utah,25.0,141.0,8,56.0,56.0,1,1,False,0.563,BollGa00
+2017,21,Detroit Lions,DET,Jarrad Davis,LB,LB,D,Florida,22.0,68.0,3,22.0,20.0,0,0,False,0.563,DaviJa01
+2017,22,Miami Dolphins,MIA,Charles Harris,OLB,LB,D,Missouri,22.0,103.0,2,16.0,4.0,0,0,False,0.625,HarrCh03
+2017,23,New York Giants,NYG,Evan Engram,TE,TE,O,Mississippi,23.0,132.0,8,37.0,18.0,2,0,False,0.688,EngrEv00
+2017,24,Oakland Raiders,OAK,Gareon Conley,CB,DB,D,Ohio St.,22.0,31.0,1,9.0,7.0,0,0,False,0.75,ConlGa00
+2017,25,Cleveland Browns,CLE,Jabrill Peppers,S,DB,D,Michigan,21.0,113.0,5,32.0,11.0,0,0,False,0.063,PeppJa00
+2017,26,Atlanta Falcons,ATL,Takkarist McKinley,DE,DL,D,UCLA,21.0,71.0,2,16.0,13.0,0,0,False,0.688,McKiTa00
+2017,27,Buffalo Bills,BUF,Tre'Davious White,CB,DB,D,LSU,22.0,109.0,6,53.0,52.0,2,1,False,0.438,WhitTr01
+2017,28,Dallas Cowboys,DAL,Taco Charlton,DE,DL,D,Michigan,22.0,60.0,0,9.0,6.0,0,0,False,0.813,CharTa00
+2017,29,Cleveland Browns,CLE,David Njoku,TE,TE,O,Miami (FL),21.0,120.0,6,27.0,27.0,1,0,False,0.063,NjokDa00
+2017,30,Pittsburgh Steelers,PIT,T.J. Watt,OLB,LB,D,Wisconsin,22.0,143.0,9,96.0,96.0,8,4,False,0.688,WattT.00
+2017,31,San Francisco 49ers,SFO,Reuben Foster,LB,LB,D,Alabama,23.0,16.0,2,8.0,8.0,0,0,False,0.125,FostRe00
+2017,32,New Orleans Saints,NOR,Ryan Ramczyk,T,OL,O,Wisconsin,23.0,101.0,6,64.0,64.0,0,1,False,0.438,RamcRy00
+2018,1,Cleveland Browns,CLE,Baker Mayfield,QB,QB,O,Oklahoma,23.0,128.0,7,80.0,35.0,2,0,False,0.0,MayfBa00
+2018,2,New York Giants,NYG,Saquon Barkley,RB,RB,O,Penn St.,21.0,112.0,7,65.0,40.0,3,1,False,0.188,BarkSa00
+2018,3,New York Jets,NYJ,Sam Darnold,QB,QB,O,USC,21.0,107.0,6,49.0,14.0,2,0,False,0.313,DarnSa00
+2018,4,Cleveland Browns,CLE,Denzel Ward,CB,DB,D,Ohio St.,21.0,118.0,8,49.0,49.0,5,0,False,0.0,WardDe02
+2018,5,Denver Broncos,DEN,Bradley Chubb,DE,DL,D,North Carolina St.,22.0,97.0,4,41.0,25.0,2,0,False,0.313,ChubBr00
+2018,6,Indianapolis Colts,IND,Quenton Nelson,G,OL,O,Notre Dame,22.0,137.0,8,79.0,79.0,8,3,False,0.25,NelsQu00
+2018,7,Buffalo Bills,BUF,Josh Allen,QB,QB,O,Wyoming,22.0,135.0,8,111.0,111.0,4,0,False,0.563,AlleJo02
+2018,8,Chicago Bears,CHI,Roquan Smith,ILB,LB,D,Georgia,21.0,133.0,8,84.0,37.0,4,3,False,0.313,SmitRo07
+2018,9,San Francisco 49ers,SFO,Mike McGlinchey,T,OL,O,Notre Dame,24.0,123.0,7,46.0,31.0,0,0,False,0.375,McGlMi00
+2018,10,Arizona Cardinals,ARI,Josh Rosen,QB,QB,O,UCLA,21.0,24.0,1,3.0,2.0,0,0,False,0.5,RoseJo01
+2018,11,Miami Dolphins,MIA,Minkah Fitzpatrick,S,DB,D,Alabama,21.0,126.0,7,61.0,7.0,5,3,False,0.375,FitzMi00
+2018,12,Tampa Bay Buccaneers,TAM,Vita Vea,DT,DL,D,Washington,23.0,120.0,6,51.0,51.0,2,0,False,0.313,VeaxVi00
+2018,13,Washington Redskins,WAS,Daron Payne,DT,DL,D,Alabama,21.0,136.0,8,53.0,53.0,1,0,False,0.438,PaynDa00
+2018,14,New Orleans Saints,NOR,Marcus Davenport,DE,DL,D,Texas-San Antonio,22.0,78.0,2,22.0,18.0,0,0,False,0.688,DaveMa00
+2018,15,Oakland Raiders,OAK,Kolton Miller,T,OL,O,UCLA,23.0,121.0,7,42.0,42.0,0,0,False,0.375,MillKo00
+2018,16,Buffalo Bills,BUF,Tremaine Edmunds,ILB,LB,D,Virginia Tech,20.0,125.0,8,62.0,44.0,2,0,False,0.563,EdmuTr01
+2018,17,Los Angeles Chargers,LAC,Derwin James,S,DB,D,Florida St.,22.0,101.0,6,46.0,46.0,5,1,False,0.563,JameDe00
+2018,18,Green Bay Packers,GNB,Jaire Alexander,CB,DB,D,Louisville,21.0,80.0,5,34.0,34.0,2,0,False,0.438,AlexJa00
+2018,19,Dallas Cowboys,DAL,Leighton Vander Esch,OLB,LB,D,Boise St.,21.0,71.0,5,35.0,35.0,1,0,False,0.563,VandLe00
+2018,20,Detroit Lions,DET,Frank Ragnow,C,OL,O,Arkansas,22.0,96.0,6,51.0,51.0,4,0,False,0.563,RagnFr00
+2018,21,Cincinnati Bengals,CIN,Billy Price,C,OL,O,Ohio St.,23.0,69.0,3,18.0,9.0,0,0,False,0.438,PricBi01
+2018,22,Tennessee Titans,TEN,Rashaan Evans,ILB,LB,D,Alabama,22.0,87.0,4,32.0,25.0,0,0,False,0.563,EvanRa01
+2018,23,New England Patriots,NWE,Isaiah Wynn,T,OL,O,Georgia,22.0,56.0,3,23.0,19.0,0,0,False,0.813,WynnIs00
+2018,24,Carolina Panthers,CAR,D.J. Moore,WR,WR,O,Maryland,21.0,136.0,8,61.0,36.0,0,0,False,0.688,MoorD.00
+2018,25,Baltimore Ravens,BAL,Hayden Hurst,TE,TE,O,South Carolina,25.0,88.0,1,17.0,6.0,0,0,False,0.563,HursHa00
+2018,26,Atlanta Falcons,ATL,Calvin Ridley,WR,WR,O,Alabama,23.0,97.0,4,41.0,24.0,0,0,False,0.625,RidlCa00
+2018,27,Seattle Seahawks,SEA,Rashaad Penny,RB,RB,O,San Diego St.,22.0,45.0,0,13.0,13.0,0,0,False,0.563,PennRa00
+2018,28,Pittsburgh Steelers,PIT,Terrell Edmunds,S,DB,D,Virginia Tech,21.0,102.0,5,27.0,25.0,0,0,False,0.813,EdmuTe00
+2018,29,Jacksonville Jaguars,JAX,Taven Bryan,DT,DL,D,Florida,22.0,118.0,4,22.0,10.0,0,0,False,0.625,BryaTa00
+2018,30,Minnesota Vikings,MIN,Mike Hughes,CB,DB,D,Central Florida,21.0,107.0,2,17.0,4.0,0,0,False,0.813,HughMi00
+2018,31,New England Patriots,NWE,Sony Michel,RB,RB,O,Georgia,23.0,65.0,2,21.0,15.0,0,0,False,0.813,MichSo00
+2018,32,Baltimore Ravens,BAL,Lamar Jackson,QB,QB,O,Louisville,21.0,121.0,7,110.0,110.0,4,3,False,0.563,JackLa00
+2019,1,Arizona Cardinals,ARI,Kyler Murray,QB,QB,O,Oklahoma,22.0,93.0,5,71.0,71.0,2,0,False,0.188,MurrKy00
+2019,2,San Francisco 49ers,SFO,Nick Bosa,DE,DL,D,Ohio St.,21.0,87.0,5,58.0,58.0,5,1,False,0.25,BosaNi00
+2019,3,New York Jets,NYJ,Quinnen Williams,DT,DL,D,Alabama,21.0,113.0,6,57.0,54.0,4,1,False,0.25,WillQu00
+2019,4,Oakland Raiders,OAK,Clelin Ferrell,DE,DL,D,Clemson,22.0,101.0,4,24.0,12.0,0,0,False,0.25,FerrCl00
+2019,5,Tampa Bay Buccaneers,TAM,Devin White,LB,LB,D,LSU,21.0,103.0,6,51.0,45.0,1,0,False,0.313,WhitDe02
+2019,6,New York Giants,NYG,Daniel Jones,QB,QB,O,Duke,22.0,91.0,6,52.0,40.0,0,0,False,0.313,JoneDa05
+2019,7,Jacksonville Jaguars,JAX,Josh Hines-Allen,LB,LB,D,Kentucky,22.0,114.0,6,45.0,45.0,2,0,False,0.313,AlleJo03
+2019,8,Detroit Lions,DET,T.J. Hockenson,TE,TE,O,Iowa,22.0,104.0,4,33.0,16.0,2,0,False,0.375,HockTJ00
+2019,9,Buffalo Bills,BUF,Ed Oliver,DT,DL,D,Houston,21.0,99.0,5,43.0,43.0,0,0,False,0.375,OlivEd00
+2019,10,Pittsburgh Steelers,PIT,Devin Bush Jr.,LB,LB,D,Michigan,21.0,106.0,4,37.0,21.0,0,0,False,0.594,BushDe01
+2019,11,Cincinnati Bengals,CIN,Jonah Williams,G,OL,O,Alabama,21.0,74.0,5,37.0,31.0,0,0,False,0.375,WillJo10
+2019,12,Green Bay Packers,GNB,Rashan Gary,LB,LB,D,Michigan,21.0,114.0,5,36.0,36.0,1,0,False,0.406,GaryRa00
+2019,13,Miami Dolphins,MIA,Christian Wilkins,DT,DL,D,Clemson,23.0,86.0,5,35.0,34.0,0,0,False,0.438,WilkCh00
+2019,14,Atlanta Falcons,ATL,Chris Lindstrom,G,OL,O,Boston Col.,22.0,113.0,6,49.0,49.0,4,0,False,0.438,LindCh00
+2019,15,Washington Redskins,WAS,Dwayne Haskins,QB,QB,O,Ohio St.,22.0,16.0,0,4.0,4.0,0,0,False,0.438,HaskDw00
+2019,16,Carolina Panthers,CAR,Brian Burns,DE,DL,D,Florida St.,21.0,117.0,6,53.0,34.0,3,0,False,0.438,BurnBr00
+2019,17,New York Giants,NYG,Dexter Lawrence,DT,DL,D,Clemson,21.0,116.0,6,55.0,55.0,3,0,False,0.313,LawrDe03
+2019,18,Minnesota Vikings,MIN,Garrett Bradbury,C,OL,O,North Carolina St.,24.0,113.0,7,41.0,32.0,0,0,False,0.531,BradGa00
+2019,19,Tennessee Titans,TEN,Jeffery Simmons,DT,DL,D,Mississippi St.,22.0,107.0,7,62.0,62.0,4,1,False,0.563,SimmJe01
+2019,20,Denver Broncos,DEN,Noah Fant,TE,TE,O,Iowa,21.0,116.0,5,26.0,14.0,0,0,False,0.375,FantNo00
+2019,21,Green Bay Packers,GNB,Darnell Savage Jr.,S,DB,D,Maryland,22.0,97.0,6,24.0,21.0,0,0,False,0.406,SavaDa00
+2019,22,Philadelphia Eagles,PHI,Andre Dillard,T,OL,O,Washington St.,23.0,69.0,1,12.0,6.0,0,0,False,0.563,DillAn00
+2019,23,Houston Texans,HOU,Tytus Howard,T,OL,O,Alabama St.,23.0,101.0,6,36.0,36.0,0,0,False,0.688,HowaTy00
+2019,24,Oakland Raiders,OAK,Josh Jacobs,RB,RB,O,Alabama,21.0,107.0,7,57.0,38.0,3,1,False,0.25,JacoJo01
+2019,25,Baltimore Ravens,BAL,Marquise Brown,WR,WR,O,Oklahoma,22.0,93.0,4,39.0,24.0,0,0,False,0.625,BrowMa04
+2019,26,Washington Redskins,WAS,Montez Sweat,DE,DL,D,Mississippi St.,23.0,115.0,6,48.0,28.0,1,0,False,0.438,SweaMo00
+2019,27,Oakland Raiders,OAK,Johnathan Abram,S,DB,D,Mississippi St.,22.0,55.0,2,13.0,10.0,0,0,False,0.25,AbraJo01
+2019,28,Los Angeles Chargers,LAC,Jerry Tillery,DT,DL,D,Notre Dame,22.0,121.0,2,26.0,14.0,0,0,False,0.75,TillJe00
+2019,29,Seattle Seahawks,SEA,L.J. Collier,DE,DL,D,TCU,23.0,75.0,2,16.0,10.0,0,0,False,0.625,CollLJ00
+2019,30,New York Giants,NYG,Deandre Baker,CB,DB,D,Georgia,22.0,26.0,1,6.0,5.0,0,0,False,0.313,BakeDe00
+2019,31,Atlanta Falcons,ATL,Kaleb McGary,T,OL,O,Washington,24.0,93.0,6,39.0,39.0,0,0,False,0.438,McGaKa00
+2019,32,New England Patriots,NWE,N'Keal Harry,WR,WR,O,Arizona St.,21.0,49.0,1,7.0,6.0,0,0,False,0.688,HarrNK00
+2020,1,Cincinnati Bengals,CIN,Joe Burrow,QB,QB,O,LSU,23.0,84.0,5,63.0,63.0,3,0,False,0.125,BurrJo01
+2020,2,Washington Football Team,WAS,Chase Young,DE,DL,D,Ohio St.,21.0,79.0,2,29.0,20.0,1,0,False,0.188,YounCh04
+2020,3,Detroit Lions,DET,Jeff Okudah,CB,DB,D,Ohio St.,21.0,50.0,2,11.0,7.0,0,0,False,0.219,OkudJe00
+2020,4,New York Giants,NYG,Andrew Thomas,T,OL,O,Georgia,21.0,81.0,6,33.0,33.0,0,0,False,0.25,ThomAn02
+2020,5,Miami Dolphins,MIA,Tua Tagovailoa,QB,QB,O,Alabama,22.0,79.0,6,52.0,52.0,1,0,False,0.313,TagoTu00
+2020,6,Los Angeles Chargers,LAC,Justin Herbert,QB,QB,O,Oregon,22.0,102.0,6,74.0,74.0,2,0,False,0.313,HerbJu00
+2020,7,Carolina Panthers,CAR,Derrick Brown,DT,DL,D,Auburn,22.0,91.0,5,35.0,35.0,1,0,False,0.313,BrowDe05
+2020,8,Arizona Cardinals,ARI,Isaiah Simmons,LB,LB,D,Clemson,22.0,96.0,2,20.0,17.0,0,0,False,0.344,SimmIs00
+2020,9,Jacksonville Jaguars,JAX,C.J. Henderson,CB,DB,D,Florida,21.0,60.0,2,13.0,4.0,0,0,False,0.375,HendCJ00
+2020,10,Cleveland Browns,CLE,Jedrick Wills Jr.,T,OL,O,Alabama,21.0,62.0,3,24.0,24.0,0,0,False,0.375,WillJe04
+2020,11,New York Jets,NYJ,Mekhi Becton,T,OL,O,Louisville,21.0,61.0,4,21.0,8.0,0,0,False,0.438,BectMe00
+2020,12,Las Vegas Raiders,LVR,Henry Ruggs III,WR,WR,O,Alabama,21.0,20.0,1,8.0,8.0,0,0,False,0.438,RuggHe00
+2020,13,Tampa Bay Buccaneers,TAM,Tristan Wirfs,T,OL,O,Iowa,21.0,99.0,6,64.0,64.0,5,2,False,0.438,WirfTr00
+2020,14,San Francisco 49ers,SFO,Javon Kinlaw,DT,DL,D,South Carolina,22.0,81.0,3,27.0,14.0,0,0,False,0.813,KinlJa00
+2020,15,Denver Broncos,DEN,Jerry Jeudy,WR,WR,O,Alabama,21.0,99.0,5,31.0,22.0,1,0,False,0.438,JeudJe00
+2020,16,Atlanta Falcons,ATL,AJ Terrell,CB,DB,D,Clemson,21.0,97.0,6,31.0,31.0,0,0,False,0.438,TerrAJ00
+2020,17,Dallas Cowboys,DAL,CeeDee Lamb,WR,WR,O,Oklahoma,21.0,103.0,6,65.0,65.0,5,1,False,0.5,LambCe00
+2020,18,Miami Dolphins,MIA,Austin Jackson,T,OL,O,USC,21.0,69.0,4,24.0,24.0,0,0,False,0.313,JackAu00
+2020,19,Las Vegas Raiders,LVR,Damon Arnette,CB,DB,D,Ohio St.,24.0,15.0,0,2.0,2.0,0,0,False,0.438,ArneDa00
+2020,20,Jacksonville Jaguars,JAX,K'Lavon Chaisson,DE,DL,D,LSU,21.0,95.0,1,17.0,7.0,0,0,False,0.375,ChaiKL00
+2020,21,Philadelphia Eagles,PHI,Jalen Reagor,WR,WR,O,TCU,21.0,64.0,2,10.0,7.0,0,0,False,0.563,ReagJa00
+2020,22,Minnesota Vikings,MIN,Justin Jefferson,WR,WR,O,LSU,21.0,100.0,6,65.0,65.0,4,2,False,0.625,JeffJu00
+2020,23,Los Angeles Chargers,LAC,Kenneth Murray,LB,LB,D,Oklahoma,21.0,93.0,5,32.0,22.0,0,0,False,0.313,MurrKe00
+2020,24,New Orleans Saints,NOR,Cesar Ruiz,C,OL,O,Michigan,21.0,95.0,6,29.0,29.0,0,0,False,0.813,RuizCe00
+2020,25,San Francisco 49ers,SFO,Brandon Aiyuk,WR,WR,O,Arizona St.,22.0,69.0,5,39.0,39.0,0,0,False,0.813,AiyuBr00
+2020,26,Green Bay Packers,GNB,Jordan Love,QB,QB,O,Utah St.,21.0,65.0,3,42.0,42.0,0,0,False,0.813,LoveJo03
+2020,27,Seattle Seahawks,SEA,Jordyn Brooks,LB,LB,D,Texas Tech,22.0,104.0,5,43.0,20.0,0,1,False,0.688,BrooJo01
+2020,28,Baltimore Ravens,BAL,Patrick Queen,LB,LB,D,LSU,21.0,109.0,6,54.0,39.0,2,0,False,0.875,QueePa00
+2020,29,Tennessee Titans,TEN,Isaiah Wilson,T,OL,O,Georgia,21.0,1.0,0,0.0,0.0,0,0,False,0.563,WilsIs00
+2020,30,Miami Dolphins,MIA,Noah Igbinoghene,CB,DB,D,Auburn,20.0,71.0,1,7.0,4.0,0,0,False,0.313,IgbiNo00
+2020,31,Minnesota Vikings,MIN,Jeff Gladney,CB,DB,D,TCU,23.0,16.0,1,5.0,5.0,0,0,False,0.625,GladJe00
+2020,32,Kansas City Chiefs,KAN,Clyde Edwards-Helaire,RB,RB,O,LSU,21.0,52.0,1,18.0,18.0,0,0,False,0.75,EdwaCl00
+2021,1,Jacksonville Jaguars,JAX,Trevor Lawrence,QB,QB,O,Clemson,21.0,84.0,5,52.0,52.0,1,0,False,0.063,LawrTr00
+2021,2,New York Jets,NYJ,Zach Wilson,QB,QB,O,BYU,22.0,38.0,3,13.0,13.0,0,0,False,0.125,WilsZa00
+2021,3,San Francisco 49ers,SFO,Trey Lance,QB,QB,O,North Dakota St.,21.0,16.0,0,6.0,4.0,0,0,False,0.375,LancTr00
+2021,4,Atlanta Falcons,ATL,Kyle Pitts,TE,TE,O,Florida,20.0,86.0,5,28.0,28.0,1,0,False,0.25,PittKy00
+2021,5,Cincinnati Bengals,CIN,Ja'Marr Chase,WR,WR,O,LSU,21.0,85.0,5,58.0,58.0,5,2,False,0.281,ChasJa00
+2021,6,Miami Dolphins,MIA,Jaylen Waddle,WR,WR,O,Alabama,22.0,86.0,5,41.0,41.0,0,0,False,0.625,WaddJa00
+2021,7,Detroit Lions,DET,Penei Sewell,OL,OL,O,Oregon,20.0,90.0,5,64.0,64.0,4,3,False,0.313,SewePe00
+2021,8,Carolina Panthers,CAR,Jaycee Horn,DB,DB,D,South Carolina,21.0,56.0,3,22.0,22.0,2,0,False,0.313,HornJa00
+2021,9,Denver Broncos,DEN,Patrick Surtain II,DB,DB,D,Alabama,21.0,85.0,5,51.0,51.0,4,2,False,0.313,SurtPa01
+2021,10,Philadelphia Eagles,PHI,DeVonta Smith,WR,WR,O,Alabama,22.0,84.0,5,47.0,47.0,0,0,False,0.281,SmitDe07
+2021,11,Chicago Bears,CHI,Justin Fields,QB,QB,O,Ohio St.,22.0,60.0,4,44.0,34.0,0,0,False,0.5,FielJu00
+2021,12,Dallas Cowboys,DAL,Micah Parsons,LB,LB,D,Penn St.,22.0,77.0,4,67.0,56.0,5,3,False,0.375,ParsMi00
+2021,13,Los Angeles Chargers,LAC,Rashawn Slater,OL,OL,O,Northwestern,22.0,55.0,3,32.0,32.0,2,0,False,0.438,SlatRa00
+2021,14,New York Jets,NYJ,Alijah Vera-Tucker,OL,OL,O,USC,22.0,49.0,2,14.0,14.0,0,0,False,0.125,VeraAl00
+2021,15,New England Patriots,NWE,Mac Jones,QB,QB,O,Alabama,23.0,64.0,3,34.0,24.0,1,0,False,0.438,JoneMa05
+2021,16,Arizona Cardinals,ARI,Zaven Collins,LB,LB,D,Tulsa,22.0,92.0,4,24.0,24.0,0,0,False,0.5,CollZa00
+2021,17,Las Vegas Raiders,LVR,Alex Leatherwood,OL,OL,O,Alabama,22.0,21.0,1,8.0,8.0,0,0,False,0.5,LeatAl00
+2021,18,Miami Dolphins,MIA,Jaelan Phillips,DL,DL,D,Miami (FL),22.0,68.0,2,23.0,19.0,0,0,False,0.625,PhilJa02
+2021,19,Washington Football Team,WAS,Jamin Davis,LB,LB,D,Kentucky,22.0,56.0,2,16.0,16.0,0,0,False,0.438,DaviJa11
+2021,20,New York Giants,NYG,Kadarius Toney,WR,WR,O,Florida,22.0,35.0,0,7.0,3.0,0,0,False,0.375,ToneKa00
+2021,21,Indianapolis Colts,IND,Kwity Paye,DL,DL,D,Michigan,22.0,83.0,5,32.0,32.0,0,0,False,0.688,PayeKw00
+2021,22,Tennessee Titans,TEN,Caleb Farley,DB,DB,D,Virginia Tech,22.0,21.0,0,2.0,1.0,0,0,False,0.688,FarlCa00
+2021,23,Minnesota Vikings,MIN,Christian Darrisaw,OL,OL,O,Virginia Tech,22.0,64.0,4,26.0,26.0,0,0,False,0.438,DarrCh00
+2021,24,Pittsburgh Steelers,PIT,Najee Harris,RB,RB,O,Alabama,23.0,76.0,4,30.0,29.0,1,0,False,0.75,HarrNa00
+2021,25,Jacksonville Jaguars,JAX,Travis Etienne,RB,RB,O,Clemson,22.0,69.0,4,33.0,33.0,0,0,False,0.063,EtieTr00
+2021,26,Cleveland Browns,CLE,Greg Newsome II,DB,DB,D,Northwestern,21.0,77.0,4,19.0,15.0,0,0,False,0.688,NewsGr00
+2021,27,Baltimore Ravens,BAL,Rashod Bateman,WR,WR,O,Minnesota,21.0,72.0,3,20.0,20.0,0,0,False,0.688,BateRa00
+2021,28,New Orleans Saints,NOR,Payton Turner,DE,DL,D,Houston,22.0,31.0,0,3.0,3.0,0,0,False,0.75,TurnPa02
+2021,29,Green Bay Packers,GNB,Eric Stokes,DB,DB,D,Georgia,22.0,69.0,4,14.0,9.0,0,0,False,0.813,StokEr00
+2021,30,Buffalo Bills,BUF,Gregory Rousseau,DL,DL,D,Miami (FL),21.0,85.0,5,38.0,38.0,0,0,False,0.813,RousGr00
+2021,31,Baltimore Ravens,BAL,Odafe Oweh,DE,DL,D,Penn St.,22.0,86.0,1,16.0,14.0,0,0,False,0.688,OwehJa00
+2021,32,Tampa Bay Buccaneers,TAM,Joe Tryon-Shoyinka,OLB,LB,D,Washington,22.0,82.0,3,23.0,22.0,0,0,False,0.688,TryoJo00
+2022,1,Jacksonville Jaguars,JAX,Travon Walker,DE,DL,D,Georgia,21.0,70.0,4,26.0,26.0,0,0,False,0.176,WalkTr03
+2022,2,Detroit Lions,DET,Aidan Hutchinson,DE,DL,D,Michigan,22.0,63.0,3,31.0,31.0,2,0,False,0.206,HutcAi00
+2022,3,Houston Texans,HOU,Derek Stingley Jr.,CB,DB,D,LSU,21.0,61.0,4,36.0,36.0,2,2,False,0.235,StinDe00
+2022,4,New York Jets,NYJ,Sauce Gardner,CB,DB,D,Cincinnati,21.0,66.0,3,33.0,32.0,2,2,False,0.235,GardSa00
+2022,5,New York Giants,NYG,Kayvon Thibodeaux,DE,DL,D,Oregon,21.0,60.0,3,24.0,24.0,0,0,False,0.235,ThibKa00
+2022,6,Carolina Panthers,CAR,Ikem Ekwonu,T,OL,O,North Carolina St.,21.0,64.0,4,25.0,25.0,0,0,False,0.294,EkwoIk00
+2022,7,New York Giants,NYG,Evan Neal,OL,OL,O,Alabama,21.0,29.0,1,11.0,11.0,0,0,False,0.235,NealEv00
+2022,8,Atlanta Falcons,ATL,Drake London,WR,WR,O,USC,21.0,70.0,4,32.0,32.0,0,0,False,0.412,LondDr00
+2022,9,Seattle Seahawks,SEA,Charles Cross,OL,OL,O,Mississippi St.,21.0,69.0,4,28.0,28.0,0,0,False,0.412,CrosCh00
+2022,10,New York Jets,NYJ,Garrett Wilson,WR,WR,O,Ohio St.,22.0,66.0,3,27.0,27.0,0,0,False,0.235,WilsGa00
+2022,11,New Orleans Saints,NOR,Chris Olave,WR,WR,O,Ohio St.,22.0,62.0,4,27.0,27.0,0,0,False,0.529,OlavCh00
+2022,12,Detroit Lions,DET,Jameson Williams,WR,WR,O,Alabama,21.0,57.0,2,26.0,26.0,0,0,False,0.206,WillJa11
+2022,13,Philadelphia Eagles,PHI,Jordan Davis,DT,DL,D,Georgia,22.0,72.0,3,24.0,24.0,0,0,False,0.529,DaviJo03
+2022,14,Baltimore Ravens,BAL,Kyle Hamilton,S,DB,D,Notre Dame,21.0,72.0,3,31.0,31.0,3,2,False,0.471,HamiKy00
+2022,15,Houston Texans,HOU,Kenyon Green,OL,OL,O,Texas A&M,21.0,27.0,2,8.0,8.0,0,0,False,0.235,GreeKe03
+2022,16,Washington Commanders,WAS,Jahan Dotson,WR,WR,O,Penn St.,22.0,71.0,3,12.0,8.0,0,0,False,0.412,DotsJa00
+2022,17,Los Angeles Chargers,LAC,Zion Johnson,G,OL,O,Boston Col.,22.0,74.0,4,25.0,25.0,0,0,False,0.529,JohnZi00
+2022,18,Tennessee Titans,TEN,Treylon Burks,WR,WR,O,Arkansas,22.0,41.0,1,7.0,6.0,0,0,False,0.706,BurkTr00
+2022,19,New Orleans Saints,NOR,Trevor Penning,T,OL,O,Northern Iowa,23.0,56.0,1,15.0,13.0,0,0,False,0.529,PennTr00
+2022,20,Pittsburgh Steelers,PIT,Kenny Pickett,QB,QB,O,Pittsburgh,24.0,39.0,2,14.0,13.0,0,0,False,0.559,PickKe00
+2022,21,Kansas City Chiefs,KAN,Trent McDuffie,CB,DB,D,Washington,21.0,62.0,4,33.0,33.0,0,1,False,0.706,McDuTr00
+2022,22,Green Bay Packers,GNB,Quay Walker,LB,LB,D,Georgia,22.0,66.0,4,22.0,22.0,0,0,False,0.765,WalkQu00
+2022,23,Buffalo Bills,BUF,Kaiir Elam,CB,DB,D,Florida,21.0,44.0,0,9.0,6.0,0,0,False,0.647,ElamKa00
+2022,24,Dallas Cowboys,DAL,Tyler Smith,OL,OL,O,Tulsa,21.0,67.0,4,33.0,33.0,3,0,False,0.706,SmitTy02
+2022,25,Baltimore Ravens,BAL,Tyler Linderbaum,OL,OL,O,Iowa,22.0,74.0,4,34.0,34.0,3,0,False,0.471,LindTy00
+2022,26,New York Jets,NYJ,Jermaine Johnson II,LB,LB,D,Florida St.,23.0,55.0,2,19.0,19.0,1,0,False,0.235,JohnJe07
+2022,27,Jacksonville Jaguars,JAX,Devin Lloyd,LB,LB,D,Utah,23.0,69.0,4,35.0,35.0,1,0,False,0.176,LloyDe00
+2022,28,Green Bay Packers,GNB,Devonte Wyatt,DT,DL,D,Georgia,24.0,65.0,1,10.0,10.0,0,0,False,0.765,WyatDe00
+2022,29,New England Patriots,NWE,Cole Strange,OL,OL,O,Chattanooga,24.0,51.0,3,15.0,11.0,0,0,False,0.588,StraCo01
+2022,30,Kansas City Chiefs,KAN,George Karlaftis III,DE,DL,D,Purdue,21.0,72.0,4,27.0,27.0,0,0,False,0.706,KarlGe00
+2022,31,Cincinnati Bengals,CIN,Daxton Hill,DB,DB,D,Michigan,21.0,61.0,2,13.0,13.0,0,0,False,0.588,HillDa04
+2022,32,Minnesota Vikings,MIN,Lewis Cine,DB,DB,D,Georgia,22.0,11.0,0,0.0,0.0,0,0,False,0.471,CineLe00
+2023,1,Carolina Panthers,CAR,Bryce Young,QB,QB,O,Alabama,22.0,53.0,2,23.0,23.0,0,0,False,0.412,YounBr01
+2023,2,Houston Texans,HOU,C.J. Stroud,QB,QB,O,Ohio St.,21.0,53.0,3,33.0,33.0,1,0,False,0.206,StroCJ00
+2023,3,Houston Texans,HOU,Will Anderson,LB,LB,D,Alabama,22.0,53.0,3,37.0,37.0,2,1,False,0.206,AndeWi01
+2023,4,Indianapolis Colts,IND,Anthony Richardson,QB,QB,O,Florida,21.0,18.0,1,9.0,9.0,0,0,False,0.265,RichAn03
+2023,5,Seattle Seahawks,SEA,Devon Witherspoon,DB,DB,D,Illinois,22.0,51.0,3,26.0,26.0,3,0,False,0.529,WithDe00
+2023,6,Arizona Cardinals,ARI,Paris Johnson,OL,OL,O,Ohio St.,22.0,47.0,3,19.0,19.0,0,0,False,0.235,JohnPa03
+2023,7,Las Vegas Raiders,LVR,Tyree Wilson,OLB,LB,D,Texas Tech,23.0,55.0,0,8.0,8.0,0,0,False,0.353,WilsTy01
+2023,8,Atlanta Falcons,ATL,Bijan Robinson,RB,RB,O,Texas,21.0,59.0,3,36.0,36.0,2,1,False,0.412,RobiBi01
+2023,9,Philadelphia Eagles,PHI,Jalen Carter,DL,DL,D,Georgia,22.0,51.0,2,24.0,24.0,2,0,False,0.824,CartJa05
+2023,10,Chicago Bears,CHI,Darnell Wright,OL,OL,O,Tennessee,22.0,57.0,3,24.0,24.0,0,0,False,0.176,WrigDa00
+2023,11,Tennessee Titans,TEN,Peter Skoronski,OL,OL,O,Northwestern,22.0,56.0,3,15.0,15.0,0,0,False,0.412,SkorPe00
+2023,12,Detroit Lions,DET,Jahmyr Gibbs,RB,RB,O,Alabama,21.0,56.0,1,40.0,40.0,3,0,False,0.529,GibbJa01
+2023,13,Green Bay Packers,GNB,Lukas Van Ness,DL,DL,D,Iowa,22.0,51.0,0,4.0,4.0,0,0,False,0.471,VanNLu00
+2023,14,Pittsburgh Steelers,PIT,Broderick Jones,OL,OL,O,Georgia,22.0,53.0,3,18.0,18.0,0,0,False,0.529,JoneBr09
+2023,15,New York Jets,NYJ,Will McDonald,DE,DL,D,Iowa St.,24.0,55.0,2,15.0,15.0,0,0,False,0.412,McDoWi00
+2023,16,Washington Commanders,WAS,Emmanuel Forbes,CB,DB,D,Mississippi St.,22.0,47.0,1,9.0,3.0,0,0,False,0.5,ForbEm00
+2023,17,New England Patriots,NWE,Christian Gonzalez,DB,DB,D,Oregon,21.0,40.0,2,19.0,19.0,1,0,False,0.471,GonzCh00
+2023,18,Detroit Lions,DET,Jack Campbell,LB,LB,D,Iowa,23.0,58.0,3,26.0,26.0,1,1,False,0.529,CampJa04
+2023,19,Tampa Bay Buccaneers,TAM,Calijah Kancey,DL,DL,D,Pittsburgh,22.0,37.0,1,13.0,13.0,0,0,False,0.471,KancCa00
+2023,20,Seattle Seahawks,SEA,Jaxon Smith-Njigba,WR,WR,O,Ohio St.,21.0,59.0,2,30.0,30.0,2,1,False,0.529,SmitJa06
+2023,21,Los Angeles Chargers,LAC,Quentin Johnston,WR,WR,O,TCU,22.0,52.0,3,16.0,16.0,0,0,False,0.588,JohnQu02
+2023,22,Baltimore Ravens,BAL,Zay Flowers,WR,WR,O,Boston Col.,22.0,57.0,3,33.0,33.0,2,0,False,0.588,FlowZa00
+2023,23,Minnesota Vikings,MIN,Jordan Addison,WR,WR,O,USC,21.0,52.0,3,20.0,20.0,0,0,False,0.765,AddiJo00
+2023,24,New York Giants,NYG,Deonte Banks,DB,DB,D,Maryland,22.0,50.0,2,12.0,12.0,0,0,False,0.559,BankDe00
+2023,25,Buffalo Bills,BUF,Dalton Kincaid,TE,TE,O,Utah,23.0,48.0,2,17.0,17.0,1,0,False,0.813,KincDa00
+2023,26,Dallas Cowboys,DAL,Mazi Smith,DL,DL,D,Michigan,22.0,43.0,1,9.0,9.0,0,0,False,0.706,SmitMa06
+2023,27,Jacksonville Jaguars,JAX,Anton Harrison,OL,OL,O,Oklahoma,21.0,53.0,3,23.0,23.0,0,0,False,0.529,HarrAn00
+2023,28,Cincinnati Bengals,CIN,Myles Murphy,DE,DL,D,Clemson,21.0,54.0,1,7.0,7.0,0,0,False,0.75,MurpMy00
+2023,29,New Orleans Saints,NOR,Bryan Bresee,DT,DL,D,Clemson,21.0,49.0,2,15.0,15.0,0,0,False,0.412,BresBr00
+2023,30,Philadelphia Eagles,PHI,Nolan Smith,OLB,LB,D,Georgia,22.0,52.0,1,13.0,13.0,0,0,False,0.824,SmitNo02
+2023,31,Kansas City Chiefs,KAN,Felix Anudike-Uzomah,DE,DL,D,Kansas St.,21.0,41.0,0,4.0,4.0,0,0,False,0.824,AnudFe00
+2024,1,Chicago Bears,CHI,Caleb Williams,QB,QB,O,USC,22.0,39.0,2,26.0,26.0,0,0,False,0.412,WillCa03
+2024,2,Washington Commanders,WAS,Jayden Daniels,QB,QB,O,LSU,23.0,29.0,1,26.0,26.0,1,0,False,0.235,DaniJa02
+2024,3,New England Patriots,NWE,Drake Maye,QB,QB,O,North Carolina,22.0,38.0,2,26.0,26.0,2,0,False,0.235,MayeDr00
+2024,4,Arizona Cardinals,ARI,Marvin Harrison Jr.,WR,WR,O,Ohio St.,22.0,35.0,2,13.0,13.0,0,0,False,0.235,HarrMa09
+2024,5,Los Angeles Chargers,LAC,Joe Alt,OL,OL,O,Notre Dame,21.0,27.0,1,12.0,12.0,1,0,False,0.294,AltxJo01
+2024,6,New York Giants,NYG,Malik Nabers,WR,WR,O,LSU,21.0,26.0,1,12.0,12.0,1,0,False,0.353,NabeMa00
+2024,7,Tennessee Titans,TEN,JC Latham,OL,OL,O,Alabama,21.0,38.0,2,11.0,11.0,0,0,False,0.353,LathJC00
+2024,8,Atlanta Falcons,ATL,Michael Penix,QB,QB,O,Washington,24.0,20.0,1,8.0,8.0,0,0,False,0.412,PeniMi00
+2024,9,Chicago Bears,CHI,Rome Odunze,WR,WR,O,Washington,22.0,37.0,2,12.0,12.0,0,0,False,0.412,OdunRo00
+2024,10,Minnesota Vikings,MIN,J.J. McCarthy,QB,QB,O,Michigan,21.0,13.0,1,4.0,4.0,0,0,False,0.412,McCaJJ00
+2024,11,New York Jets,NYJ,Olu Fashanu,OL,OL,O,Penn St.,21.0,40.0,1,10.0,10.0,0,0,False,0.412,FashOl00
+2024,12,Denver Broncos,DEN,Bo Nix,QB,QB,O,Oregon,24.0,42.0,2,25.0,25.0,0,0,False,0.471,NixxBo00
+2024,13,Las Vegas Raiders,LVR,Brock Bowers,TE,TE,O,Georgia,21.0,35.0,1,14.0,14.0,2,1,False,0.471,BoweBr01
+2024,14,New Orleans Saints,NOR,Taliese Fuaga,OL,OL,O,Oregon St.,22.0,37.0,2,13.0,13.0,0,0,False,0.529,FuagTa00
+2024,15,Indianapolis Colts,IND,Laiatu Latu,DL,DL,D,UCLA,23.0,41.0,1,10.0,10.0,0,0,False,0.529,LatuLa00
+2024,16,Seattle Seahawks,SEA,Byron Murphy,DL,DL,D,Texas,21.0,39.0,1,14.0,14.0,0,0,False,0.529,MurpBy01
+2024,17,Minnesota Vikings,MIN,Dallas Turner,LB,LB,D,Alabama,21.0,40.0,1,9.0,9.0,0,0,False,0.412,TurnDa01
+2024,18,Cincinnati Bengals,CIN,Amarius Mims,OL,OL,O,Georgia,21.0,39.0,2,16.0,16.0,0,0,False,0.529,MimsAm00
+2024,19,Los Angeles Rams,LAR,Jared Verse,DL,DL,D,Florida St.,23.0,42.0,2,22.0,22.0,2,0,False,0.588,VersJa00
+2024,20,Pittsburgh Steelers,PIT,Troy Fautanu,OL,OL,O,Washington,23.0,26.0,1,9.0,9.0,0,0,False,0.588,FautTr00
+2024,21,Miami Dolphins,MIA,Chop Robinson,DE,DL,D,Penn St.,21.0,38.0,0,4.0,4.0,0,0,False,0.647,RobiCh00
+2024,22,Philadelphia Eagles,PHI,Quinyon Mitchell,CB,DB,D,Toledo,23.0,40.0,2,19.0,19.0,1,1,False,0.647,MitcQu00
+2024,23,Jacksonville Jaguars,JAX,Brian Thomas,WR,WR,O,LSU,21.0,38.0,2,18.0,18.0,1,0,False,0.529,ThomBr06
+2024,24,Detroit Lions,DET,Terrion Arnold,DB,DB,D,Alabama,21.0,24.0,1,8.0,8.0,0,0,False,0.706,ArnoTe00
+2024,25,Green Bay Packers,GNB,Jordan Morgan,OL,OL,O,Arizona,23.0,31.0,1,9.0,9.0,0,0,False,0.529,MorgJo03
+2024,26,Tampa Bay Buccaneers,TAM,Graham Barton,OL,OL,O,Duke,22.0,41.0,2,15.0,15.0,0,0,False,0.529,BartGr00
+2024,27,Arizona Cardinals,ARI,Darius Robinson,DL,DL,D,Missouri,22.0,29.0,1,4.0,4.0,0,0,False,0.235,RobiDa01
+2024,28,Kansas City Chiefs,KAN,Xavier Worthy,WR,WR,O,Texas,21.0,38.0,2,13.0,13.0,0,0,False,0.647,WortXa00
+2024,29,Dallas Cowboys,DAL,Tyler Guyton,OL,OL,O,Oklahoma,23.0,33.0,2,9.0,9.0,0,0,False,0.706,GuytTy00
+2024,30,Baltimore Ravens,BAL,Nate Wiggins,CB,DB,D,Clemson,21.0,40.0,1,7.0,7.0,0,0,False,0.765,WiggNa00
+2024,31,San Francisco 49ers,SFO,Ricky Pearsall,WR,WR,O,Florida,23.0,20.0,1,8.0,8.0,0,0,False,0.706,PearRi00
+2024,32,Carolina Panthers,CAR,Xavier Legette,WR,WR,O,South Carolina,23.0,33.0,2,8.0,8.0,0,0,False,0.118,LegeXa00
+2025,1,Tennessee Titans,TEN,Cam Ward,QB,QB,O,Miami (FL),23.0,25.0,1,7.0,7.0,0,0,False,0.176,WardCa00
+2025,2,Jacksonville Jaguars,JAX,Travis Hunter,WR,WR,O,Colorado,22.0,14.0,0,5.0,5.0,0,0,False,0.235,HuntTr00
+2025,3,New York Giants,NYG,Abdul Carter,DE,DL,D,Penn St.,21.0,24.0,0,4.0,4.0,0,0,False,0.176,CartAb00
+2025,4,New England Patriots,NWE,Will Campbell,OT,OL,O,LSU,21.0,21.0,1,8.0,8.0,0,0,False,0.235,CampWi01
+2025,5,Cleveland Browns,CLE,Mason Graham,DT,DL,D,Michigan,22.0,23.0,1,8.0,8.0,0,0,False,0.176,GrahMa00
+2025,6,Las Vegas Raiders,LVR,Ashton Jeanty,RB,RB,O,Boise St.,21.0,25.0,1,7.0,7.0,0,0,False,0.235,JeanAs00
+2025,7,New York Jets,NYJ,Armand Membou,OL,OL,O,Missouri,21.0,25.0,1,7.0,7.0,0,0,False,0.294,MembAr00
+2025,8,Carolina Panthers,CAR,Tetairoa McMillan,WR,WR,O,Arizona,22.0,24.0,1,9.0,9.0,0,0,False,0.294,McMiTe00
+2025,9,New Orleans Saints,NOR,Kelvin Banks,OL,OL,O,Texas,21.0,19.0,1,6.0,6.0,0,0,False,0.294,BankKe01
+2025,10,Chicago Bears,CHI,Colston Loveland,TE,TE,O,Michigan,21.0,24.0,1,7.0,7.0,0,0,False,0.294,LoveCo00
+2025,11,San Francisco 49ers,SFO,Mykel Williams,DL,DL,D,Georgia,21.0,12.0,0,4.0,4.0,0,0,False,0.353,WillMy00
+2025,12,Dallas Cowboys,DAL,Tyler Booker,OL,OL,O,Alabama,21.0,22.0,1,6.0,6.0,0,0,False,0.412,BookTy00
+2025,13,Miami Dolphins,MIA,Kenneth Grant,DT,DL,D,Michigan,21.0,20.0,0,3.0,3.0,0,0,False,0.471,GranKe01
+2025,14,Indianapolis Colts,IND,Tyler Warren,TE,TE,O,Penn St.,23.0,23.0,1,9.0,9.0,1,0,False,0.471,WarrTy00
+2025,15,Atlanta Falcons,ATL,Jalon Walker,DE,DL,D,Georgia,21.0,15.0,1,5.0,5.0,0,0,False,0.471,WalkJa02
+2025,16,Arizona Cardinals,ARI,Walter Nolen,DT,DL,D,Mississippi,21.0,12.0,0,1.0,1.0,0,0,False,0.471,NoleWa00
+2025,17,Cincinnati Bengals,CIN,Shemar Stewart,DE,DL,D,Texas A&M,21.0,12.0,0,2.0,2.0,0,0,False,0.529,StewSh00
+2025,18,Seattle Seahawks,SEA,Grey Zabel,OT,OL,O,North Dakota St.,23.0,25.0,1,7.0,7.0,0,0,False,0.588,ZabeGr00
+2025,19,Tampa Bay Buccaneers,TAM,Emeka Egbuka,WR,WR,O,Ohio St.,22.0,23.0,1,9.0,9.0,0,0,False,0.588,EgbuEm01
+2025,20,Denver Broncos,DEN,Jahdae Barron,CB,DB,D,Texas,23.0,25.0,0,3.0,3.0,0,0,False,0.588,BarrJa01
+2025,21,Pittsburgh Steelers,PIT,Derrick Harmon,DT,DL,D,Oregon,22.0,16.0,0,4.0,4.0,0,0,False,0.588,HarmDe01
+2025,22,Los Angeles Chargers,LAC,Omarion Hampton,RB,RB,O,North Carolina,22.0,16.0,0,5.0,5.0,0,0,False,0.647,HampOm00
+2025,23,Green Bay Packers,GNB,Matthew Golden,WR,WR,O,Texas,22.0,22.0,0,4.0,4.0,0,0,False,0.647,GoldMa02
+2025,24,Minnesota Vikings,MIN,Donovan Jackson,OL,OL,O,Ohio St.,22.0,18.0,1,5.0,5.0,0,0,False,0.824,JackDo03
+2025,25,New York Giants,NYG,Jaxson Dart,QB,QB,O,Mississippi,22.0,16.0,1,11.0,11.0,0,0,False,0.176,DartJa00
+2025,26,Atlanta Falcons,ATL,James Pearce,DE,DL,D,Tennessee,21.0,17.0,0,3.0,3.0,0,0,False,0.471,PearJa00
+2025,27,Baltimore Ravens,BAL,Malaki Starks,SAF,DB,D,Georgia,21.0,25.0,1,5.0,5.0,0,0,False,0.706,StarMa00
+2025,28,Detroit Lions,DET,Tyleik Williams,DT,DL,D,Ohio St.,22.0,24.0,1,4.0,4.0,0,0,False,0.882,WillTy02
+2025,29,Washington Commanders,WAS,Josh Conerly,OL,OL,O,Oregon,21.0,24.0,1,8.0,8.0,0,0,False,0.706,ConeJo00
+2025,30,Buffalo Bills,BUF,Maxwell Hairston,CB,DB,D,Kentucky,22.0,18.0,0,2.0,2.0,0,0,False,0.765,HairMa00
+2025,31,Philadelphia Eagles,PHI,Jihaad Campbell,LB,LB,D,Alabama,21.0,24.0,1,6.0,6.0,0,0,False,0.824,CampJi00
+2025,32,Kansas City Chiefs,KAN,Josh Simmons,OL,OL,O,Ohio St.,22.0,8.0,0,4.0,4.0,0,0,False,0.882,SimmJo01
